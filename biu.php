@@ -60,11 +60,8 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
 英文儿歌,http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
-儿歌大全,http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
 兔小贝儿歌,http://118.26.120.22:55336/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
-奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
 少儿动漫,http://111.11.123.49:6610/000000001000/8145334647720731271/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218220220429145931225614&channel-id=wasusyt&Contentid=8145334647720731271
-金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
