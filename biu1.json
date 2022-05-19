@@ -1,115 +1,167 @@
-##电视直播##
-CCTV-1综合,http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2财经,http://39.134.19.130/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-3综艺,http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4国际,http://117.148.179.157:80/PLTV/88888888/224/3221231726/1.m3u8
-CCTV-5体育,http://111.40.196.9/PLTV/88888888/224/3221225743/index.m3u8
-CCTV-6电影,http://39.135.133.175:80/wh7f454c46tw628991537_-2031528527/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7军事,http://39.135.133.175:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8电视,http://39.135.133.160:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9纪录,http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8
-CCTV-10科教,http://117.148.179.137:80/PLTV/88888888/224/3221231666/1.m3u8
-CCTV-11戏曲,http://117.148.179.163:80/PLTV/88888888/224/3221231711/1.m3u8
-CCTV-12社会,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13新闻,http://39.135.133.175:80/wh7f454c46tw628991537-2031528527/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-14少儿,http://39.135.133.158:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15音乐,http://39.134.65.82:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16奥林匹克,http://39.137.67.157:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8?IASHttpSessionId=OTT
-CCTV-17农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
-CCTV-5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
-五星体育,http://111.40.196.25:80/PLTV/88888888/224/3221225503/index.m3u8
-湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
-江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
-安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
-北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-广东卫视,http://111.40.196.9/PLTV/88888888/224/3221225533/index.m3u8
-四川卫视,http://117.148.179.146:80/PLTV/88888888/224/3221231885/1.m3u8
-重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-黑龙江卫视,http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8
-广西卫视,http://39.135.32.6:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-河南卫视,http://39.136.48.58:8089/PLTV/88888888/224/3221226415/1.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w1179863659.m3u8
-东南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8
-辽宁卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
-贵州卫视,http://39.137.67.157:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226405/1.m3u8?IASHttpSessionId=OTT
-天津卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225739/index.m3u8
-厦门卫视,http://39.134.19.27/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226219/1.m3u8
-湖北卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225740/index.m3u8
-海南卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=OTT1348220220515070053339568
-海峡卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-青岛蓝鲸,http://lanjinglive02.qtvnews.com/qtv/zb9.m3u8?auth_key=2195065577-0-0-13b86545db9ed57a81bd05800caa7dd7
-上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-24小时体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
-Newtv军旅剧场,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
-军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-北京4K影视,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-##
-##少儿动画##
-宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
-宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
-小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
-喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
-英文儿歌,http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
-兔小贝儿歌,http://118.26.120.22:55336/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
-少儿动漫,http://111.11.123.49:6610/000000001000/8145334647720731271/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218220220429145931225614&channel-id=wasusyt&Contentid=8145334647720731271
-嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
-优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
-金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
-小猪佩奇,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
-童年经典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-玩具乐园,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
-猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-怀旧动画,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-巧虎,http://118.26.120.37:55336/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
-动画小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-儿童乐园,http://118.26.120.23:55336/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
-倒霉熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-##
-
-##轮播##
-喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8 
-古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8 
-成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-郭富城影院,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8 
-张国荣影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8 
-高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8 
-周润发影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8 
-怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8 
-周星驰影院,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
-午夜失眠剧场,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-吴京作品集,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
-云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8 
-葛优作品集,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8 
-僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-刘亦菲影视展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
-TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-金庸频道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-高能烧脑时刻,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
-杨幂作品集,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
-4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
-SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-红色谍战剧场,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
-神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
-黄金剧场,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
-追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-##
+  {"zhuyejiekou": [           
+            {"name":"影视猫","url":"https://vip.wscyun.com/api.php/v1.vod"},
+            {"name": "独播社","url": "http://35ys.cc/api.php/v1.vod"},  
+            {"name":"极速影视","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
+            {"name":"9亿TV","url":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
+            {"name": "辉夜影视","url": "https://app.huiye.icu/mogai_api.php/v1.vod"},
+            {"name": "古卡影视","url": "http://mkk.gotka.top/api.php/v1.vod"},
+            {"name":"琅琊影视","url": "http://fgyuu.top/lehailb_api.php/v1.vod"},
+            {"name":"飓风影视","url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"},
+            {"name":"双鹿影院","url":"http://cr.slidc.top/mubai_api.php/m2.vod"},
+            {"name": "DC影视","url": "http://chaorenbb.com/api.php/v1.vod"},
+            {"name":"麻子视频","url":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
+            {"name":"158影院","url":"http://150.158.133.36:9904/qingdoujiekou.php/v1.vod"},
+            {"name": "饭后影视","url": "http://yinliub.cn/lvdou_api.php/v1.vod"},
+            {"name": "粉象视界","url": "http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
+            {"name":"海胆影视","url":"http://xf123.cc/api.php/app/"},
+            {"name":"MX影视","url":"http://mkk.gotka.top/api.php/v1.vod"},
+            {"name":"大猫影视","url":"http://app.ishen520.com/api.php/v1.vod"},
+            {"name":"青豆资源","url":"http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"},
+            {"name":"黄河影视","url":"http://i.ledu8.cn/api.php/v1.vod"},
+            {"name":"蒲公英视频","url":"http://www.pgy1.top/ruifenglb_api.php/v1.vod"},
+            {"name":"余生影视","url":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"}],
+    "caijizhan": [{"name":"七七影视","url":"http://api.kunyu77.com/api.php"},{"name":"忆梦影视","url":"http://anltv.cn/api.php"},{"name":"五一看剧","url":"http://www.51kanju.cn/api.php"}],
+    "lunbo": [{"name": "D鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},{"name": "B哩","fanye": "aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="},{"name": "H牙","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="}],
+   "zhujiexi":"https://json.nxflv.com/?uid=701203&key=bltuyCEFKLTX013679&url=#https://za.kuanjv.com/?url=#https://app.iminna.com/jx/?url=#http://dt.hwh.ink/home/api?type=ys&uid=671338&key=abnwxAFGHKPQSTV159&url=#https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=#http://api.vip123kan.vip/?url=#https://json.hfyrw.com/mao.go?url=#https://jhpc.manduhu.com/j1217.php?url=#http://www.cx99999.cn/json.php?url=#https://json.5lp.net/json.php?url=#https://jhjx.kuanjv.com/newky/?url=#https://xrzj.qd234.cn/api/?key=ineVkLOqFx0XZioEez&url=#https://vip.byteamone.cn/api/?key=0nca5Ltu48ziJtcFu1&url=#https://ltyj.kuaixiao.vip/api/?key=tbhgqkweJeRLmTsK4l&url=#https://play.tkys.tv/jh/jiami.php?url=#https://svip.rongxingvr.top/api/?key=Wyl9CjTyelP0UOaECD&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=15837989&key=abciorvxIJLPUY0258&url=#https://vvip.muxvip.com:8866/api/?key=xJvC19KWkxoyQO71hk&url=#https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=#https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=bcdjqBEFGLMPW01457&url=#https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=#http://106.75.184.231:4433/ltm3u8/ltxin1121111.php?url=#https://jf.96ym.cn/api/?key=13FXcA46Nzg4QeFHbq&url=#https://a.dxzj88.com/jxrrm/jiami.php?url=",
+    "beiyongjiexi": "https://player.iuk.ink/m3u8.php?url=#https://jx.parwix.com:4433/player/analysis.php?v=#https://jx.blbo.cc:4433/?url=#http://www.nxflv.com/?url=#https://nbjx.vip/?url=#https://jx.parwix.com:4433/player/?url=#https://okjx.cc/?url=#https://www.kpezp.cn/jlexi.php?url=",
+    "dianshizhibo": "https://github.com/qdpdwjx/ziyuan/raw/main/biu.php",
+	"tiyuzhibo": "https://m.zhibo8.net",
+    "guolvdizhi": "player.css#url=#cnzz.com#51.la",
+    "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
+	"Home": {
+"dy": {
+"class": "全部$&class=#战争$&class=战争#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#喜剧$&class=喜剧#爱情$&class=爱情#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
+"area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#欧洲$&area=欧洲#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#印度$&area=印度#其它$&area=其它",
+"year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+},
+"dsj": {
+"class": "全部$&class=#喜剧$&class=喜剧#战争$&class=战争#军旅$&class=军旅#谍战$&class=谍战#悬疑$&class=悬疑#罪案$&class=罪案#古装$&class=古装#言情$&class=言情#武侠$&class=武侠#偶像$&class=偶像#家庭$&class=家庭#青春$&class=青春#都市$&class=都市#穿越$&class=穿越#宫廷$&class=宫廷#历史$&class=历史#神话$&class=神话#科幻$&class=科幻#年代$&class=年代#农村$&class=农村#商战$&class=商战#剧情$&class=剧情#奇幻$&class=奇幻",
+"area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#英国$&area=英国#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#台湾$&area=台湾#其它$&area=其它",
+"year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+},
+"zy": {
+"class": "全部$&class=#表演$&class=表演#播报$&class=播报#访谈$&class=访谈#体验$&class=体验#养成$&class=养成#游戏$&class=游戏#亲子$&class=亲子#美食$&class=美食#情感$&class=情感#选秀$&class=选秀#益智$&class=益智#晚会$&class=晚会#音乐$&class=音乐#文化$&class=文化#喜剧$&class=喜剧#曲艺$&class=曲艺#职场$&class=职场#脱口秀$&class=脱口秀#真人秀$&class=真人秀#竞技$&class=竞技#体育$&class=体育#萌宠$&class=萌宠",
+"area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#韩国$&area=韩国#日本$&area=日本#台湾$&area=台湾",
+"year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+},
+"dm": {
+"class": "全部$&class=#搞笑$&class=搞笑#番剧$&class=番剧#国创$&class=国创#大电影$&class=大电影#热血$&class=热血#催泪$&class=催泪#治愈$&class=治愈#励志$&class=励志#机战$&class=机战#战斗$&class=战斗#恋爱$&class=恋爱#科幻$&class=科幻#奇幻$&class=奇幻#魔幻$&class=魔幻#推理$&class=推理#校园$&class=校园#日常$&class=日常#经典$&class=经典#历史$&class=历史#美食$&class=美食#职场$&class=职场#偶像$&class=偶像#泡面$&class=泡面#冒险$&class=冒险#竞技$&class=竞技#武侠$&class=武侠#玄幻$&class=玄幻",
+"area": "全部$&area=#内地$&area=内地#日本$&area=日本#欧美$&area=欧美#其它$&area=其它",
+"year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+}
+},
+     "zidingyi": 
+[{"name": "影视工厂",
+"url": "http://www.ysgc.cc",
+"User": "空",
+"fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#番剧$/vodshow/26--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#动作片$/vodshow/1---动作-----#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#科幻片$/vodshow/1---科幻-----#恐怖片$/vodshow/1---恐怖-----#剧情片$/vodshow/1---剧情-----#战争片$/vodshow/1---战争-----#武侠片$/vodshow/1---武侠-----",
+"houzhui": "---.html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+//专.用
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</span>",
+"tupianqian": "original=\"",
+"tupianhou": "\"",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+"ssmoshi": "0",
+"sousuoshifouercijiequ": "0",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"otherbox\">",
+"zhuangtaihou": "</p>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "<span class=\"data\"",
+"juqinghou": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""},
+{"name": "乐猪影视",
+"url": "http://www.lezhutv.com",
+"tihuan": "cnzz.com",
+"User": "空",
+"fenlei": "电影$/type/1-#电视剧$/type/2-#综艺$/type/3-#动漫$/type/4-#韩剧$/type/14-#美剧$/type/15-",
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"vbox\"",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"sousuoqian": "/search-pg-1-wd-",
+"sousuohou": ".html",
+"sousuohouzhui": "/detail/",
+"ssmoshi": "1",
+"sousuoshifouercijiequ": "0",
+"jspic": "空",
+"jsname": "空",
+"jsid": "空",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"vbox\"",
+"ssjiequshuzuhou": "</a>",
+"sstupianqian": "data-original=\"",
+"sstupianhou": "\"",
+"ssbiaotiqian": "title=\"",
+"ssbiaotihou": "\"",
+"sslianjieqian": "href=\"",
+"sslianjiehou": "\"",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"list_block show\"",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"yac\">",
+"zhuangtaihou": "</p>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "class=\"tbox_js\">",
+"juqinghou": "</div>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<li>",
+"bfyjiequshuzuhou": "</li>",
+"bfbiaotiqian": "\">",
+"bfbiaotihou": "</a>",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""}]}
