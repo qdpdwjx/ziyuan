@@ -11,7 +11,7 @@
 {"key":"DNSP_spider","name":"酷酷影视(SP)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":1,"ext":"http://121.62.19.116:1996","jar":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"},
 //{"key":"Alips","name":"阿里盘搜(清晰度高、播放流畅)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"switchable":1,"playerType":1,"ext":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/token.txt"},
 {"key":"YiSo","name":"高清影院(清晰度高、播放流畅)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"switchable":1,"playerType":1,"ext":"cdec268310d24ba9a8675bb7430860d8"},
-{"key":"UpYun","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"switchable":1,"playerType":1,"ext":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/token.txt;asc"},
+{"key":"UpYun","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"switchable":1,"playerType":1,"ext":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/token.txt;desc"},
 {"key":"YQK_spider","name":"VIP影院(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"switchable":1,"playerType":2,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_Czsapp","name":"厂长影院(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_fantuan","name":"饭团影院(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://www.fantuanhd.com"},
