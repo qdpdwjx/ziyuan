@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"98影院",
-"主页url":"http://www.98yyw.com",
+"主页url":"http://www.98kpw.com/",
 "数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -28,7 +28,7 @@
 "播放链接":"href=\"&&\"",
 "分类":"电影&电视剧&综艺&动漫",
 "分类值":"dianyingpian&dianshiju&zongyi&dongman",
-"分类url":"http://www.98yyw.com/{cateId}/index{catePg}.html[http://www.98yyw.com/{cateId}/index.html]",
+"分类url":"http://www.98kpw.com/{cateId}/index{catePg}.html[http://www.98kpw.com/{cateId}/index.html]",
 "筛选":{
 "dianyingpian":[
 {
