@@ -1,3 +1,6 @@
+{
+"作者":"张弘",
+"站名":"骚火影院",
 "主页url":"https://shdy2.com",
 "数组":"<div class=\"v_img\">&&class=\"v_title\">",
 "图片":"data-original=\"&&\"",
@@ -15,7 +18,6 @@
 "播放标题":"_self\">&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"0",
-
 "分类":"电影$1#电视剧$2",
 "分类url":"https://shdy3.com/list/{cateId}-{catePg}.html",
 "筛选":{
