@@ -1,4 +1,4 @@
-﻿{
+{
 "spider": "https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/66666.jar",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "sites":[
@@ -31,7 +31,7 @@
 {"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":2},
 {"key":"新浪资源","name":"新浪影院(M)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":2,"categories":["大陆剧","港澳剧","台湾剧","欧美剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"csp_xBPQ_城市电影","name":"城市电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/csdy.json"},
-{"key":"csp_XBPQ_南瓜影视","name":"南瓜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html" },
+{"key":"csp_XBPQ_南瓜影视","name":"南瓜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html","线路标题":">&&<[不包含:1#2]", },
 {"key":"csp_XBPQ_98影院","name":"98影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":1,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/98yy.json"},
 {"key":"csp_XBPQ_600DVD","name":"600影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":1,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/600yy.json"},
 {"key":"csp_XBPQ_freeok","name":"freeok影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/freeok.json"},
