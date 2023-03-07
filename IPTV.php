@@ -116,7 +116,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.179.150:80/PLTV/88888888/224/3221231799/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
-台视新闻,http://2023.stream-link.org/playlist/ttv_news
-寰宇新闻,http://2023.stream-link.org/playlist/global_tw
-民视新闻,http://2023.stream-link.org/playlist/ftv_news
+TVBS新闻,P2p://generationnexxxt.com:19806/360dfb7911184069a9436d58df6ace3a#http://2023.stream-link.org/playlist/tvbs_news
+中天新闻,P2p://generationnexxxt.com:19806/f412237e0e5c474bb46f519e635f8ca1
+台视新闻,P2p://generationnexxxt.com:19806/600aa1dde9984def8c295d3c1bd7c36f#http://2023.stream-link.org/playlist/ttv_news
+寰宇新闻,P2p://generationnexxxt.com:19806/7db7267e06c94e1abb15074a0e976a05#http://2023.stream-link.org/playlist/global_tw
+民视新闻,P2p://generationnexxxt.com:19806/4612abb49797482ba0fb581d43e4b345#http://2023.stream-link.org/playlist/ftv_news
+非凡新闻台,P2p://generationnexxxt.com:19806/c6a69d6c86414154a41cb21c203d86ac
