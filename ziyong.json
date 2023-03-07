@@ -1,5 +1,5 @@
 {
-"spider": "https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/66666.jar",
+"spider": "https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/Yoursmile.jar",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "sites":[
 {"key":"小苹果","name":"默认主页(当无法播放或播放无声音时,切换EXO或IJK播放器)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":1},
