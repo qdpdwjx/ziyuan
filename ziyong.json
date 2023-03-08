@@ -4,7 +4,7 @@
 "sites":[
 {"key":"小苹果","name":"默认主页(当无法播放或播放无声音时,切换EXO或IJK播放器)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":1},
 {"key":"csp_Bttoo","name":"在线影院(清晰度高、播放流畅)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.bttwoo.com/"},
-{"key":"csp_biubiu_七年影视","name":"七年影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/xpath/qnys.json"},
+{"key":"drpy_js_七年影视","name":"🀖七年影视","type":3,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy.min.js","ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/qnys.js"},
 {"key":"drpy_js_两个BT","name":"两个BT","type":3,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy.min.js","ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/bttoo.js"},
 {"key":"csp_AppTT","name":"图图影视(SP)","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 //{"key":"Tutu_spider","name":"图图影视(SP)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"switchable":1,"playerType":2,"ext":"http://124.248.66.89:7788/","jar":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"},
