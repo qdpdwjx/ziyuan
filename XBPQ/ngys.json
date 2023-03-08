@@ -22,7 +22,7 @@
 
 //"线路二次截取": "ewave-tab active\"&&id=\"ewave-playlist-1\">",
 "线路数组": "class=\"swiper-slide&&/li",
-"线路标题": ">&&</small>",
+"线路标题": ">&&</small>[不包含:01#02]",
 
 "影片类型":"状态：</span>&&</em>",
 "导演":"导演：</span>&&</p>",
