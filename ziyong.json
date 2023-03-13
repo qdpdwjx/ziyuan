@@ -9,6 +9,7 @@
 "searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
 "ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
 },
+{"key":"csp_sp_龙门影视","name":"龙门影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod","jar":""},
 {"key":"csp_xBPQ_南瓜影视","name":"南瓜影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/ngys.json"},
 {"key":"csp_xBPQ_搜狗影院","name":"搜狗影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/sgyy.json"},
 {"key":"csp_XBPQ_奇优影院","name":"奇优影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext": "https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/qyyy.json"},
