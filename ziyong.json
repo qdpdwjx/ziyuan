@@ -27,7 +27,7 @@
 //{"key":"YiSo","name":"高清影院(清晰度高、播放流畅)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"switchable":1,"playerType":1,"ext":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/token.txt","jar":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/Yoursmile.jar"},
 //{"key":"UpYun","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"switchable":1,"playerType":1,"ext":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/token.txt,"jar":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/Yoursmile.jar"},
 {"key":"YQK_spider","name":"VIP影院(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"switchable":1,"playerType":2,"ext":"https://api-tx.shumaxc.xyz","jar": ""},
-{"key":"drpy_js_孜然影视","name":"孜然影视(JS)","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"api":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JS/zrys.js"},
+{"key":"drpy_js_孜然影视","name":"孜然影视(JS)","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy.min.js","ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/zrys.js"},
 {"key":"csp_Czsapp","name":"厂长影院(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://czzy01.com/"},
 {"key":"csp_Cokemv","name":"可乐影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_fantuan","name":"饭团影院(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.fantuanhd.com"},
