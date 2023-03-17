@@ -5,7 +5,7 @@
 {"key":"小苹果","name":"默认主页(当无法播放或播放无声音时,切换EXO或IJK播放器)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":1},
 {"key":"csp_Bttoo","name":"在线影院(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.bttwo.net/"},
  {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/88看球2.js"},
-{"key": "dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/JRKAN直播.js"},
+{"key": "csp_xpath_qiumi","name": "JRKAN赛事直播","type": 3,"api": "csp_XPathFilter", "searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ygyzy.github.io/api/Xpath/JRKAN.json.json" },
  {
       "key": "JRS看球网",
       "name": "⚽🏀JRS看球网",
