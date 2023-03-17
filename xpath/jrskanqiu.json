@@ -1,51 +1,70 @@
 {
-    "author": "dj22.9.7",
-    "homeUrl": "http://www.jrskanqiu.com/",//http://didiaokan2018.com/
-    "ua":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+	"author": "",
+	"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Core/1.94.186.400 QQBrowser/11.3.5195.400",
+	"homeUrl": "http://www.jrskan.com/",
+	//"homeUrl": "http://jrsbxj.com/",
+	//"homeUrl": "http://jrsyyds.com/",
 
-    "cateManual": {"JRS看球网": "666"},
+	"cateManual": {
+		"JRS赛事直播": "@666"
+	},
 
-    // 首页
-    "cateUrl": "http://www.jrskanqiu.com/",
-	// 首页推荐视频的节点
-	"cateVodNode": "//div [@class='listBox']",
-    // 首页推荐视频的名称
-    "cateVodName": "concat(/div[@class='myList']/div[@class='timer']/text(),':',/div[@class='myList']/div[@class='matchType']/text())",
-    // 首页推荐视频的id
-    "cateVodId": "/div[@class='download']/div[@class='status']/a/@href",
-    "cateVodIdR": "/live/(\\d+).html",
-    // 首页推荐视频的图片
-    "cateVodImg": "/div[@class='myList']/div[@class='team']/p[1]/img/@src",
-    // 首页推荐视频的简介
-    "cateVodMark": "concat(/div[@class='myList']/div[@class='team']/p[1]/text(),'vs',/div[@class='myList']/div[@class='team']/p[3]/text())",
- 
-	
-	// 详情页
-	"dtUrl": "http://www.jrskanqiu.com/live/{vid}.html",
+
+	// 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl2": "http://www.jrskan.com/",
+	// 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//ul[@data-stype='zqlq']",
+	//"cateVodName": "/li[@class='lab_events']/span/text()",
+	"cateVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'dj')",
+	"cateVodId": "/li[@class='lab_channel']/a[1]/@href",
+	"cateVodIdR": "http://play.sportsteam357.com/play/steam(\\d+).html",
+	//"cateVodIdR": "\\S+/(\\d+).html",
+	"cateVodImg": "/li[@class='lab_team_home']/span/img/@src",
+	"cateVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())",
+	//"cateVodMark": "{vid}",
+	"cate": "dj",
+	// 详情页地址 用于获取详情页信息 及 播放列表和地址
+	//"dtUrl": "{vid}",
+	"dtUrl": "http://play.sportsteam357.com/play/steam{vid}.html",
 	// 详情节点
-    "dtNode": "//div[@class='msg']",
+	"dtNode": "//ul[@data-stype='zqlq']",
 	// 视频名
-    "dtName": "concat(/ul/li[1]/text(),'vs',/ul/li[7]/text())",
+	"dtName": "/li[1]/span/text()",
 	// 视频图片
-    "dtImg": "/ul/li[2]/img/@src",
-    // 视频简介
-    "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
-	
+	"dtImg": "/li[3]/span/img/@src",
+	// 视频分类
+	"dtCate": "/li[1]/span/text()",
+	//演员
+	"dtActor": "/li[1]/span/text()",
+	// 导演
+	"dtDirector": "concat('勇士总冠军')",
+	"dtDirectorR": "",
+	// 视频简介
+	"dtDesc": "concat(/li[3]/strong/text(),' VS ',/li[5]/strong/text())",
+
 	// 播放源节点
-    "dtFromNode": "//ul[@class='checkChannel']",
+	"dtFromNode": "//div[@class='sub_channel']",
 	// 播放源名称
-    "dtFromName":  "'【直播源】'",
+	"dtFromName": "concat('【推荐优先选择中文超清或中文高清直播源观看】')",
+	"dtFromNameR": "",
 	// 播放列表节点
-    "dtUrlNode": "//ul[@class='checkChannel']",
+	"dtUrlNode": "//div[@class='sub_channel']",
 	// 播放地址节点
-    "dtUrlSubNode": "/li/a[@data-url]",
+	"dtUrlSubNode": "/a",
+	"dtUrlSub": "/ff",
 	// 播放地址
-    "dtUrlId": "@data-url",
-    "dtUrlIdR": "http(\\S+)",
+	"dtUrlId": "@data-play",
+	"dtUrlIdR": "/play/(\\S+)",
+	//"dtUrlIdR": "\\S+/(\\d+)&id2=",
 	// 剧集名称
-    "dtUrlName": "/text()",
-	
+	"dtUrlName": "/strong/text()",
+	"dtUrlNameR": "",
+
 	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-    "playUrl":"http{playUrl}"
+	//"playUrl":"http://play.sportsteam333.com/play/{playUrl}#ff",
+	"playUrl": "http://play.sportsteam357.com/play/{playUrl}"
+	//"playUrl": "http://play.sportsteam365.com/play/{playUrl}"
+	//"playUa": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36", 
+	//"playUa": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
 
 }
