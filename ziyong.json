@@ -1,4 +1,4 @@
-﻿{
+{
 "spider": "https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/66666.jar",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/mao.php","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
 "sites":[
@@ -23,7 +23,7 @@
 {"key":"csp_Auete","name":"奥特影院(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_AppMr","name":"明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"DNSP_spider","name":"酷酷影视(SP)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":1,"ext":"http://121.62.19.116:1996"},
-{"key":"YQK_spider","name":"VIP影院(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"jar":"https://download.kstore.space/download/4127/3﹢.txt;md5; ce1f5c25edfd364ed1312933f61a70f4","ext":"8e3aefcba838d8dc5102ac786719d837"},
+{"key":"YQK_spider","name":"VIP影院(SP)","api":"csp_Dora","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"jar":"https://download.kstore.space/download/4127/3﹢.txt;md5; ce1f5c25edfd364ed1312933f61a70f4","ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key": "csp_XYQHiker8K影视","name":"8K影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/8kyy.json"},
 {"key": "csp_XYQHiker七新影视","name":"七新影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/qxys.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/XYQPlugin.jar"},
 {"key":"csp_Cokemv","name":"可乐影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
