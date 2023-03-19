@@ -3,8 +3,7 @@
 "lives": [{"name":"live","type":0,"playerType":1,"url":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/mao.php","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
 "sites":[
 {"key":"小苹果","name":"默认主页(当无法播放或播放无声音时,切换EXO或IJK播放器)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":1},
-{"key":"csp_Bttoo","name":"在线影院(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.bttwo.net/"},{"key":"csp_AppTT","name":"图图影视(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
-"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_Bttoo","name":"在线影院(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.bttwo.net/"},{"key":"csp_AppTT","name":"图图影视(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Czsapp","name":"厂长影院(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czzzu.com/"},
 {"key":"csp_Bttoo","name":"在线影院(清晰度高)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.bttwo.net/"},
 {"key":"Yisou","name":"易搜影视(清晰度高)","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://pastebin.com/raw/cnxF4paS","jar":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/xfm.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"},
