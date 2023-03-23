@@ -1,4 +1,4 @@
-﻿{
+{
 "spider": "https://gitee.com/qdpdwjx0001/ziyuan/raw/master/JAR/66666.jar",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/mao.php","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
 "sites":[
@@ -18,7 +18,7 @@
 {"key":"棉花","name":"棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":2,"ext":"http://118.190.144.126"},
 {"key":"sliu_spider","name":"石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2},
 {"key":"csp_sp_龙门影视","name":"龙门影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://dy.hm.iqinu.com:88/lm_api.php/v1.vod","jar":""},
-{"key":"csp_XBPQ白狐影视","name":"白狐影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.bhxoxo.com/f/vodshow/id/{cateId}/page/{catepg}/year/{year}.html"}},
+{"key":"csp_XBPQ白狐影视","name":"白狐影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.bhxoxo.com/p/vodshow/id/{cateId}/page/{catepg}/year/{year}.html"}},
 {"key":"csp_xBPQ_搜狗影院","name":"搜狗影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/sgyy.json"},
 {"key":"csp_AppMr","name":"明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"DNSP_spider","name":"酷酷影视(SP)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"http://121.62.19.116:1996"},
