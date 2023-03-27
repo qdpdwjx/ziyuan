@@ -121,4 +121,4 @@ TVBS新闻,http://2023.stream-link.org/live/401131254#rtmp://59.124.75.138:1935/
 中天新聞,http://38.60.38.190:2023/dl/1.php?id=24
 中視新聞,http://2023.stream-link.org/live/926790469
 民視新聞,http://2023.stream-link.org/live/1637144344
-寰宇新聞,http://2023.stream-link.org/live/1212532853#http://2023.stream-link.org/live/1932250847
+寰宇新聞,http://38.60.38.190:2023/dl/1.php?id=28#http://2023.stream-link.org/live/1212532853#http://2023.stream-link.org/live/1932250847
