@@ -50,7 +50,6 @@
             "quickSearch": 1,
             "filterable": 1,"playerType":3,
             "ext": "https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/freeok.json"},
-        },
 {"key":"csp_Kuaikan","name":"快看影院(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":3},
 {"key":"csp_XBPQ_淘剧","name":"淘剧影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":3,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/XBPQ/tjyy.json"},
 {"key":"神马影院","name":"神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"switchable":1,"playerType":3},
