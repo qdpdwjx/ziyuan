@@ -255,5 +255,5 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-TVBS新闻,rtmp://59.124.75.138/sat/tv551
+青岛新闻,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 
