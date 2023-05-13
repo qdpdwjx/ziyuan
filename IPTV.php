@@ -90,6 +90,8 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 临沂综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000120/index.m3u8#http://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 淄博新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000292/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221226014/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225986/index.m3u8
 烟台新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8
+嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8$1080P
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8$1080P
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8
 北京科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
