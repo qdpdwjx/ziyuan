@@ -140,9 +140,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-TVBS新聞,https://2022.stream-link.org/list.php?id=t013
-寰宇國際新聞,https://2022.stream-link.org/list.php?id=t007
-寰宇台灣新聞,https://2022.stream-link.org/list.php?id=t008
-民視新聞,https://2022.stream-link.org/list.php?id=t006
-中天新聞,https://2022.stream-link.org/list.php?id=t003
+TVBS新聞,http://2022.stream-link.org/list.php?id=t013
+寰宇國際新聞,http://2022.stream-link.org/list.php?id=t007
+寰宇台灣新聞,http://2022.stream-link.org/list.php?id=t008
+民視新聞,http://2022.stream-link.org/list.php?id=t006
+中天新聞,http://2022.stream-link.org/list.php?id=t003
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
