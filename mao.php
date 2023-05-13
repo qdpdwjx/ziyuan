@@ -258,7 +258,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-TVBS新闻,http://2023.stream-link.org/live/2051588601
-民视新闻,http://2023.stream-link.org/live/1536981751
-寰宇新闻,http://2023.stream-link.org/live/1666533776
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
