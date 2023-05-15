@@ -116,9 +116,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.179.150:80/PLTV/88888888/224/3221231799/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-TVBS新聞,http://2022.stream-link.org/list.php?id=t013
-寰宇國際新聞,http://2022.stream-link.org/list.php?id=t007
-寰宇台灣新聞,http://2022.stream-link.org/list.php?id=t008
-民視新聞,http://2022.stream-link.org/list.php?id=t006
-中天新聞,http://2022.stream-link.org/list.php?id=t003
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+TVBS新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-300d09ed-7cca-4909-831e-3184bf30496f.m3u8?by=yeslivetv_com#http://154.216.191.59/ycdz/x.php?id=54
+TVBS HD,http://154.216.191.59/ycdz/x.php?id=56#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-71e43e9f-ffec-42ac-b63a-38c5f7ef6ec1.m3u8?by=yeslivetv_com
+寰宇新闻,http://154.216.191.59/ycdz/x.php?id=53
+民視新聞,http://154.216.191.59/ycdz/x.php?id=50
+中天新聞,http://154.216.191.59/ycdz/x.php?id=43
