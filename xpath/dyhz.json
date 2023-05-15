@@ -1,104 +1,70 @@
 {
-	"ua": "",
-    // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://www.jiujiukanpian.com",
-    // 分类节点
-	"cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '6'))]",
-    // 分类名
-	"cateName": "/text()",
-    // 分类id
-	"cateId": "/@href",
-    // 分类id二次处理正则
-	"cateIdR": "/type/(\\d+).html",
-    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-	"cateManual": {},
-    // 首页推荐视频的节点
-	"homeVodNode": "//div[@class='col-md-12 movie-item-out']//a[not(contains(@href, '6'))]/parent::*/parent::*/parent::*/div[contains(@class, 'movie-item-out') and position()<10]/div[@class='movie-item']/a",
-    // 首页推荐视频的名称
-	"homeVodName": "/@title",
-    // 二次处理正则
-    "homeVodNameR": "",
-    // 首页推荐视频的id
-	"homeVodId": "/@href",
-    // 二次处理正则
-	"homeVodIdR": "/show/(\\w+).html",
-    // 首页推荐视频的图片
-	"homeVodImg": "/img/@src",
-    // 二次处理正则
-    "homeVodImgR": "",
-    // 首页推荐视频的简介
-	"homeVodMark": "/button/text()",
-    // 二次处理正则
-    "homeVodMarkR": "",
-    // 分类页地址 {cateId} 分类id {catePg} 当前页
-	"cateUrl": "https://www.jiujiukanpian.com/type/{cateId}/{catePg}.html",
-    // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[@class='movie-item']/a",
-	"cateVodName": "/@title",
-	"cateVodId": "/@href",
-	"cateVodIdR": "/show/(\\w+).html",
-	"cateVodImg": "/img/@src",
-	"cateVodMark": "/button/text()",
-    // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "https://www.jiujiukanpian.com/show/{vid}.html",
-    // 详情节点
-	"dtNode": "//div[@class='container-fluid']",
-    // 视频名
-	"dtName": "//div[@class='col-md-9']//div[@class='col-md-4']//img/@alt",
-	"dtNameR": "",
-    // 视频图片
-	"dtImg": "//div[@class='col-md-9']//div[@class='col-md-4']//img/@src",
-	"dtImgR": "",
-    // 视频分类
-	"dtCate": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '类型')]/parent::*/following-sibling::*/text()",
-	"dtCateR": "",
-    // 视频年份
-	"dtYear": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '日期')]/parent::*/following-sibling::*/text()",
-	"dtYearR": "",
-    // 视频地区
-	"dtArea": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '国家')]/parent::*/following-sibling::*/text()",
-	"dtAreaR": "",
-    // 视频状态
-	"dtMark": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '状态')]/parent::*/following-sibling::*/text()",
-	"dtMarkR": "",
-    // 主演
-	"dtActor": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '主演')]/parent::*/following-sibling::*/text()",
-	"dtActorR": "",
-    // 导演
-	"dtDirector": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '导演')]/parent::*/following-sibling::*/text()",
-	"dtDirectorR": "",
-    // 视频简介
-	"dtDesc": "//p[@class='summary']/text()",
-	"dtDescR": "",
-    // 播放源节点
-	"dtFromNode": "//div[contains(@class,'resource-list')]/div[@class='panel-heading']/strong",
-    // 播放源名称
-	"dtFromName": "/text()",
-    // 二次处理正则
-	"dtFromNameR": "\\S+\\.(\\S+) \\(",
-    // 播放列表节点
-	"dtUrlNode": "//div[contains(@class,'resource-list')]/ul[@class='dslist-group']",
-    // 播放地址节点
-	"dtUrlSubNode": "/li/a",
-    // 播放地址
-	"dtUrlId": "@href",
-    // 二次处理正则
-	"dtUrlIdR": "/play/(\\S+).html",
-    // 剧集名称
-	"dtUrlName": "/text()",
-    // 二次处理正则
-	"dtUrlNameR": "",
-    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://www.jiujiukanpian.com/play/{playUrl}.html",
-    // 解析webview的user-agent
-	"playUa": "",
-    // 搜索地址
-	"searchUrl": "https://www.jiujiukanpian.com/search?wd={wd}",
-    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
-	"scVodNode": "//div[@class='movie-item']/a",
-	"scVodName": "/@title",
-	"scVodId": "/@href",
-	"scVodIdR": "/show/(\\w+).html",
-	"scVodImg": "/img/@src",
-	"scVodMark": "/button/text()"
+    "规则名": "电影盒子",
+    "规则作者": "香雅情",
+    "请求头参数": "手机",
+    "网页编码格式": "UTF-8",
+    "图片是否需要代理": "0",
+    "是否开启获取首页数据": "1",
+    "首页推荐链接": "http://kan8.tv",
+    "首页列表数组规则": "body&&.stui-vodlist:has(h4)",
+    "首页片单列表数组规则": "li",
+    "首页片单是否Jsoup写法": "1",
+    "首页片单标题": "h4&&a&&Text",
+    "首页片单链接": "h4&&a&&href",
+    "首页片单图片": ".lazyload&&data-original",
+    "首页片单副标题": ".pic-text&&Text",
+    "首页片单链接加前缀": "http://kan8.tv",
+    "首页片单链接加后缀": "",
+    "分类起始页码": "1",
+    "分类链接": "http://kan8.tv/films/{cateId}_{catePg}.html{by}",
+    "分类名称": "电影&电视剧&综艺&动漫&伦理",
+    "分类名称替换词": "1&2&4&3&40",
+    "筛选数据": "ext",
+    "筛选排序名称": "时间&人气",
+    "筛选排序替换词": "?order=time&?order=hit",
+    "分类截取模式": "1",
+    "分类列表数组规则": ".stui-vodlist&&li",
+    "分类片单是否Jsoup写法": "1",
+    "分类片单标题": "h4&&a&&Text",
+    "分类片单链接": "h4&&a&&href",
+    "分类片单图片": ".lazyload&&data-original",
+    "分类片单副标题": ".pic-text&&Text",
+    "分类片单链接加前缀": "http://kan8.tv",
+    "分类片单链接加后缀": "",
+    "搜索请求头参数": "User-Agent$手机",
+    "搜索链接": "http://kan8.tv/search.php;post",
+    "POST请求数据": "searchword={wd}",
+    "搜索截取模式": "1",
+    "搜索列表数组规则": ".stui-vodlist__media&&li",
+    "搜索片单是否Jsoup写法": "1",
+    "搜索片单图片": ".lazyload&&data-original",
+    "搜索片单标题": "h3&&a&&Text",
+    "搜索片单链接": "h3&&a&&href",
+    "搜索片单副标题": ".pic-text&&Text",
+    "搜索片单链接加前缀": "http://kan8.tv",
+    "搜索片单链接加后缀": "",
+    "链接是否直接播放": "0",
+    "直接播放链接加前缀": "",
+    "直接播放链接加后缀": "",
+    "直接播放直链视频请求头": "",
+    "详情是否Jsoup写法": "0",
+    "类型详情": "类型：</span>&&</a>",
+    "年代详情": "年份：</span>&&</a>",
+    "地区详情": "地区：</span>&&</a>",
+    "演员详情": "主演：</span>&&</p>",
+    "简介详情": "简介：</span>&&</p>",
+    "线路列表数组规则": "body&&[href^=#down]",
+    "线路标题": "Text",
+    "播放列表数组规则": "body&&.stui-content__playlist",
+    "选集列表数组规则": "li",
+    "选集标题链接是否Jsoup写法": "1",
+    "选集标题": "a&&Text",
+    "选集链接": "a&&href",
+    "是否反转选集序列": "0",
+    "选集链接加前缀": "http://kan8.tv",
+    "选集链接加后缀": "",
+    "分析MacPlayer": "0",
+    "是否开启手动嗅探": "0",
+    "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
+    "手动嗅探视频链接过滤词": ".html#=http"
 }
