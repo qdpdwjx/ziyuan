@@ -95,7 +95,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8$1080P
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8
-北京科教,https://live.goodiptv.club/api/ghyx.php?id=BTVKeJiaoHD_6000
+北京科教,http://api2.52tb.xyz/info?id=352&token=20230120rdbtgv#https://live.goodiptv.club/api/ghyx.php?id=BTVKeJiaoHD_6000
 上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8#http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/xwzhhd/2300000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8#http://117.156.28.119/PLTV/88888888/224/3221225683/index.m3u8
 上海都市,http://111.40.196.29/PLTV/88888888/224/3221225613/1.m3u8#http://111.40.196.37:80/PLTV/88888888/224/3221225613/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231618/index.m3u8#http://112.25.48.68/live/program/live/ylpdhd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/ylpdhd/2300000/mnf.m3u8
 上海纪实,http://111.40.196.25:80/PLTV/88888888/224/3221225491/index.m3u8#http://112.25.48.68/live/program/live/jspdhd/4000000/mnf.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
