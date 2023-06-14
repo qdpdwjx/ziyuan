@@ -118,7 +118,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 中天,https://pull-l3-cny.douyincdn.com/live/e2ff4d7438523c7eedfa16276420eed4.m3u8
-民视,rtmp://9wv7.mine.nu/sat/tv051
+民视,https://pull-l3-cny.douyincdn.com/live/a5281c0dd63455c4fe5ca5ad9d2bb2a0.m3u8
 华视,rtmp://9wv7.mine.nu/sat/tv111
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/bafc1a6cc04e20173da7a8eb2a5b2c56.m3u8
 TVBS HD,https://pull-l3-cny.douyincdn.com/live/9d29e6d60a7aebf4d7d6a4c99d6c03a1.m3u8
