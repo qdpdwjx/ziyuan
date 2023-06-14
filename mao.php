@@ -198,7 +198,7 @@ CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 中天,https://pull-l3-cny.douyincdn.com/live/e2ff4d7438523c7eedfa16276420eed4.m3u8
-民视,rtmp://9wv7.mine.nu/sat/tv051
+民视,https://pull-l3-cny.douyincdn.com/live/a5281c0dd63455c4fe5ca5ad9d2bb2a0.m3u8
 华视,rtmp://9wv7.mine.nu/sat/tv111
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/bafc1a6cc04e20173da7a8eb2a5b2c56.m3u8
 TVBS HD,https://pull-l3-cny.douyincdn.com/live/9d29e6d60a7aebf4d7d6a4c99d6c03a1.m3u8
