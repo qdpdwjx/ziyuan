@@ -122,12 +122,7 @@ TVBS综合台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a
 TVBS综合台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
 中天综合台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天娱乐台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
-寰宇新闻台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
-TVBS,rtmp://219.80.97.77/sat/tv551
-民视,rtmp://119.81.124.89/sat/tv051
-台视[1280x720],rtmp://119.81.124.89/sat/tv071
-中视[1280x720],rtmp://119.81.124.89/sat/tv091
-华视[1280x720],rtmp://119.81.124.89/sat/tv111
+TVBS新闻台,rtmp://219.80.97.77/sat/tv551
 民视[1280x720],rtmp://219.80.97.77/sat/tv051
 台视[1280x720],rtmp://219.80.97.77/sat/tv071
 中视[1280x720],rtmp://219.80.97.77/sat/tv091
