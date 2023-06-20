@@ -196,12 +196,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-TVBS精彩台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS亚洲台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-TVBS综合台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.flv
-TVBS综合台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
-中天综合台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-中天娱乐台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
 TVBS新闻台,rtmp://219.80.97.77/sat/tv551
 民视[1280x720],rtmp://219.80.97.77/sat/tv051
 台视[1280x720],rtmp://219.80.97.77/sat/tv071
