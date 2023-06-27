@@ -122,7 +122,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 TVBS,http://sc2022.stream-link.org/tv2306.php?id=t13
 中天亚洲,http://sc2022.stream-link.org/tv2306.php?id=t15
 中天新闻,http://lzoq.hk3c.ml/daili/ytb.php?id=cti
-TVBS新闻台,rtmp://219.80.97.77/sat/tv551
+TVBS新闻,rtmp://219.80.97.77/sat/tv551
 民视[1280x720],rtmp://219.80.97.77/sat/tv051
 台视[1280x720],rtmp://219.80.97.77/sat/tv071
 中视[1280x720],rtmp://219.80.97.77/sat/tv091
