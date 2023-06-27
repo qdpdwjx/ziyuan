@@ -200,7 +200,8 @@ CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 寰宇,http://sc2022.stream-link.org/tv2306.php?id=t07
 TVBS,http://sc2022.stream-link.org/tv2306.php?id=t13
 中天亚洲,http://sc2022.stream-link.org/tv2306.php?id=t15
-TVBS新闻台,rtmp://219.80.97.77/sat/tv551
+中天新闻,http://lzoq.hk3c.ml/daili/ytb.php?id=cti
+TVBS新闻,rtmp://219.80.97.77/sat/tv551
 民视[1280x720],rtmp://219.80.97.77/sat/tv051
 台视[1280x720],rtmp://219.80.97.77/sat/tv071
 中视[1280x720],rtmp://219.80.97.77/sat/tv091
