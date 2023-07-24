@@ -1,4 +1,4 @@
- {
+ {     "站名": "臭蛋蛋",
         "主页url": "https://cddys.vip/",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "分类url": "https://cddys.vip//vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
