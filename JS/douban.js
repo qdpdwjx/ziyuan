@@ -1,6 +1,6 @@
 muban.短视2.二级.img = '.detail-pic&&img&&data-src';
 var rule = {
-    title: '大豆',
+    title: '热播',
     模板:'短视2',
     host: 'https://www.rebo.cm',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
