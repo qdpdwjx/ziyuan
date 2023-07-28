@@ -5,7 +5,7 @@
 				"导演": "导演：&&</div",
 				"主演": "主演：&&</div",
 				"简介": "<p>&&</p>",
-				"线路数组": "class=\"module-tab-item tab-item&&</div>[排序:天翼云>非凡云>量子云>奇艺云>优酷云>芒果云>腾讯云]",
+				"线路数组": "class=\"module-tab-item tab-item&&</div>[排序:非凡云>量子云>奇艺云>优酷云>芒果云>天翼云>腾讯云]",
 				"线路标题": "<span>&&</small>",
 				"播放标题": "<span>&&</span>",
 				"搜索url": "/rss.xml?wd={wd}",
