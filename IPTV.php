@@ -79,11 +79,11 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 济南生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
 济南娱乐,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
 济南鲁中,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8#http://39.136.48.2:8089/PLTV/88888888/224/3221225910/1.m3u8
-泰安综合,http://39.134.144.6:8089/PLTV/88888888/224/3221225720/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
-泰安公共,http://39.134.144.6:8089/PLTV/88888888/224/3221225990/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
+泰安综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8#http://39.134.144.6:8089/PLTV/88888888/224/3221225720/index.m3u8
+泰安公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8#http://39.134.144.6:8089/PLTV/88888888/224/3221225990/index.m3u8
 新泰综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001029/index.m3u8#https://jsylivealone302.iqilu.com/xintai/xintai_tv01/index.m3u8#http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001029/index.m3u8#http://111.17.214.12:1935/live/xtzh/chunklist_w1201254222.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
-东平新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221225864/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
-肥城综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226091/index.m3u8
+东平新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8#http://39.134.144.6:8089/PLTV/88888888/224/3221225864/index.m3u8
+肥城综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8#http://39.134.144.6:8089/PLTV/88888888/224/3221226091/index.m3u8
 日照综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000262/index.m3u8
 潍坊新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000215/index.m3u8#http://sobeylingyun02pull.sobeylive.com/live/wf1pd.m3u8?shandd#http://stream.wfcmw.cn/1/sd/live.m3u8#http://stream.wfcmw.cn/1/playlist.m3u8
 潍坊都市,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000216/index.m3u8#http://stream.wfcmw.cn/2/sd/live.m3u8#http://stream.wfcmw.cn/2/playlist.m3u8
