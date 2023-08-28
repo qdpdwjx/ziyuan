@@ -201,8 +201,12 @@ CHC电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/inde
 CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 TVBS HD,rtmp://9sv2.mine.nu/sat/tv551
-TVBS,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
+TVBS HD,https://fsv4.yj011.net/sat/tv551.flv
 民视,rtmp://9sv2.mine.nu/sat/tv051
+民视,https://fsv4.yj011.net/sat/tv051.flv
 台视,rtmp://9sv2.mine.nu/sat/tv071
+台视,https://fsv4.yj011.net/sat/tv071.flv
 中视,rtmp://9sv2.mine.nu/sat/tv091
-华视,rtmp://9sv2.mine.nu/sat/tv111
+中视,https://fsv4.yj011.net/sat/tv091.flv
+东森,rtmp://9sv2.mine.nu/sat/tv571
+东森,https://fsv4.yj011.net/sat/tv571.flv
