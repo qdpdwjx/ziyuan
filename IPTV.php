@@ -122,3 +122,4 @@ TVBS HD,rtmp://9sv2.mine.nu/sat/tv551#https://fsv4.yj011.net/sat/tv551.flv
 中视,rtmp://9sv2.mine.nu/sat/tv091#http://162.19.247.76:22222/live/zhongshi/index.m3u8#https://fsv4.yj011.net/sat/tv091.flv
 东森,rtmp://9sv2.mine.nu/sat/tv571#https://fsv4.yj011.net/sat/tv571.flv
 华视,rtmp://9sv2.mine.nu/sat/tv111#http://162.19.247.76:22222/live/huashi/index.m3u8#https://fsv4.yj011.net/sat/tv111.flv
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
