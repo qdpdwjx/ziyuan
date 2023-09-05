@@ -42,7 +42,7 @@
   "演员详情": ".module-info-content&&.module-info-item,3&&Text",
   "简介详情": ".module-info-content&&.module-info-item&&Text",
   "线路列表数组规则": "#y-playList&&.module-tab-item",
-  "线路标题": "Text",
+  "线路标题": "Text[不包含:夸克网盘]",
   "播放列表数组规则": "body&&.module-play-list-content",
   "选集列表数组规则": "a",
   "选集标题链接是否Jsoup写法": "是",
