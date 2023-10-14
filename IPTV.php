@@ -116,10 +116,10 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com# http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462 / index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-TVBS HD,rtmp://9sv2.mine.nu/sat/tv551#https://fsv4.yj011.net/sat/tv551.flv
-民视,rtmp://9sv2.mine.nu/sat/tv051#https://fsv4.yj011.net/sat/tv051.flv
-台视,rtmp://9sv2.mine.nu/sat/tv071#http://162.19.247.76:22222/live/taishi/index.m3u8#https://fsv4.yj011.net/sat/tv071.flv
-中视,rtmp://9sv2.mine.nu/sat/tv091#http://162.19.247.76:22222/live/zhongshi/index.m3u8#https://fsv4.yj011.net/sat/tv091.flv
-东森,rtmp://9sv2.mine.nu/sat/tv571#https://fsv4.yj011.net/sat/tv571.flv
-华视,rtmp://9sv2.mine.nu/sat/tv111#http://162.19.247.76:22222/live/huashi/index.m3u8#https://fsv4.yj011.net/sat/tv111.flv
+中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
+華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
+民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
+寰宇國際新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇台灣新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
+台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
