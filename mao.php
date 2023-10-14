@@ -196,6 +196,12 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
+華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
+民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
+寰宇國際新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇台灣新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
+台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
 TVBS HD,rtmp://9sv2.mine.nu/sat/tv551
 TVBS HD,https://fsv4.yj011.net/sat/tv551.flv
 民视,rtmp://9sv2.mine.nu/sat/tv051
