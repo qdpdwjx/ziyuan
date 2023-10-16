@@ -73,6 +73,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 莱西新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001067/index.m3u8#http://39.135.160.99:6410/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001067/index.m3u8
 胶州新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001074/index.m3u8
 平度新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001054/index.m3u8
+青岛李沧,http://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b.flv#rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b#rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b
 济南新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 济南影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
 济南都市,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
@@ -94,7 +95,6 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 寿光综合,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001045/index.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-法治天地,http://58.32.40.25:8000/udp/239.45.1.46:5140
 北京新闻,https://live.funhillrm.com/5/sd/live.m3u8#http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000#http://live.funhillrm.com/5/sd/live.m3u8
 上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8#http://222.65.21.143:4022/udp/239.45.3.209:5140
 上海都市,http://111.40.196.29/PLTV/88888888/224/3221225613/1.m3u8#http://111.40.196.37:80/PLTV/88888888/224/3221225613/index.m3u8
