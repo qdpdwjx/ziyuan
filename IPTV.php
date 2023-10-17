@@ -116,10 +116,5 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com# http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462 / index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
-華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
-民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
-寰宇國際新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇台灣新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
-台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
