@@ -16,7 +16,7 @@
 "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
 "搜索后缀":"/voddetail/",
 "线路二次截取":"<ul class=\"nav nav-tabs active\">&&</ul>",
-"线路数组":"<li&&</li>",
+"线路数组":"<li&&</li>[不包含:U酷资源]",
 "线路标题":">&&</a>",
 "播放数组":"<ul class=\"myui-content__list scrollbar sort-list clearfix\"&&</ul>",
 "影片年代":"年份：&&</a>",
