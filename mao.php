@@ -230,3 +230,17 @@ CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 青岛平度1,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
 青岛平度2,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
 平度生活,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
+台視新聞,https://hls4.chinesehdiptv.com/hls/tsxw/index.m3u8
+中視新聞,https://hls4.chinesehdiptv.com/hls/zsxw/index.m3u8
+華視新聞,https://hls4.chinesehdiptv.com/hls/hsxw/index.m3u8
+民視新聞,https://hls4.chinesehdiptv.com/hls/msxw/index.m3u8
+TVBS 新聞台HD,https://hls6.chinesehdiptv.com/hls/TVBSHD/index.m3u8
+TVBS 新聞HD,https://hls6.chinesehdiptv.com/hls/tvbsnews/index.m3u8
+中天新聞,https://hls6.chinesehdiptv.com/hls/ztxw/index.m3u8
+東森新聞,https://hls4.chinesehdiptv.com/hls/dsxw/index.m3u8
+鏡新聞,https://hls4.chinesehdiptv.com/hls/jnews/index.m3u8
+寰宇新聞,https://hls4.chinesehdiptv.com/hls/hyxw/index.m3u8
+寰宇新聞台,https://hls4.chinesehdiptv.com/hls/hyxwtw/index.m3u8
+年代新聞,https://hls4.chinesehdiptv.com/hls/ndxw/index.m3u8
+三立新聞,https://hls4.chinesehdiptv.com/hls/slxw/index.m3u8
+非凡新聞,https://hls2.chinesehdiptv.com/hls/ffxw/index.m3u8
