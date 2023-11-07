@@ -118,17 +118,3 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8 
-台視新聞,https://hls4.chinesehdiptv.com/hls/tsxw/index.m3u8
-中視新聞,https://hls4.chinesehdiptv.com/hls/zsxw/index.m3u8
-華視新聞,https://hls4.chinesehdiptv.com/hls/hsxw/index.m3u8
-民視新聞,https://hls4.chinesehdiptv.com/hls/msxw/index.m3u8
-TVBS 新聞台HD,https://hls6.chinesehdiptv.com/hls/TVBSHD/index.m3u8
-TVBS 新聞HD,https://hls6.chinesehdiptv.com/hls/tvbsnews/index.m3u8
-中天新聞,https://hls6.chinesehdiptv.com/hls/ztxw/index.m3u8
-東森新聞,https://hls4.chinesehdiptv.com/hls/dsxw/index.m3u8
-鏡新聞,https://hls4.chinesehdiptv.com/hls/jnews/index.m3u8
-寰宇新聞,https://hls4.chinesehdiptv.com/hls/hyxw/index.m3u8
-寰宇新聞台,https://hls4.chinesehdiptv.com/hls/hyxwtw/index.m3u8
-年代新聞,https://hls4.chinesehdiptv.com/hls/ndxw/index.m3u8
-三立新聞,https://hls4.chinesehdiptv.com/hls/slxw/index.m3u8
-非凡新聞,https://hls2.chinesehdiptv.com/hls/ffxw/index.m3u8
