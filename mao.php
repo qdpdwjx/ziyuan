@@ -230,8 +230,3 @@ CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 青岛平度1,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
 青岛平度2,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
 平度生活,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8?$1920x1080
-中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
