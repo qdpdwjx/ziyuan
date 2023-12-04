@@ -97,7 +97,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 北京新闻,https://live.funhillrm.com/5/sd/live.m3u8#http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000#http://live.funhillrm.com/5/sd/live.m3u8
 上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8#https://pi.0472.org/tv/sh.php?id=xw#http://222.65.21.143:4022/udp/239.45.3.209:5140
-上海都市,https://pi.0472.org/tv/sh.php?id=ds
+东方影视,[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 上海纪实,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000333/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 浙江新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江经济生活,https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
