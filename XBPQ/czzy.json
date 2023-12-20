@@ -24,7 +24,7 @@
 	"播放标题": ">&&<",
 	"播放链接": "href=\"&&\"",
 	"搜索模式": "1",
-	"搜索url": "https://www.czzy33.com//xssearch?q={wd}",
+	"搜索url": "https://www.czzy33.com/xssearch?q={wd}",
 	"搜索数组": "<li>&&class=\"nostag\"",
 	"搜索副标题": "<span>&&</span>",
 	"搜索标题": "<h3 class=\"dytit\">&&</h3>",
