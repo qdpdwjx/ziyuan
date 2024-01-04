@@ -1,72 +1,28 @@
-// 搜索验证 -> drpy_ocr自动过搜索验证失败
-var rule={
-    title:'骚火电影',
-    // host:'https://shdy3.com',
-    host:'http://shapp.us',
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(2)&&href");print(src);HOST=src',
-    // url:'/list/fyclass-fypage.html',
-    url:'/list/fyfilter-fypage.html',
-    filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.cateId}}',
-    filter: {
-        "1":[{"key":"cateId","name":"类型","value":[{"v":"1","n":"全部"},{"v":"6","n":"喜剧"},{"v":"7","n":"爱情"},{"v":"8","n":"恐怖"},{"v":"9","n":"动作"},{"v":"10","n":"科幻"},{"v":"11","n":"战争"},{"v":"12","n":"犯罪"},{"v":"13","n":"动画"},{"v":"14","n":"奇幻"},{"v":"15","n":"剧情"},{"v":"16","n":"冒险"},{"v":"17","n":"悬疑"},{"v":"18","n":"惊悚"},{"v":"19","n":"其它"}]}],
-        "2":[{"key":"cateId","name":"类型","value":[{"v":"2","n":"全部"},{"v":"20","n":"大陆"},{"v":"21","n":"TVB"},{"v":"22","n":"韩剧"},{"v":"23","n":"美剧"},{"v":"24","n":"日剧"},{"v":"25","n":"英剧"},{"v":"26","n":"台剧"},{"v":"27","n":"其它"}]}],
-        "4":[{"key":"cateId","name":"类型","value":[{"v":"4","n":"全部"},{"v":"38","n":"搞笑"},{"v":"39","n":"恋爱"},{"v":"40","n":"热血"},{"v":"41","n":"格斗"},{"v":"42","n":"美少女"},{"v":"43","n":"魔法"},{"v":"44","n":"机战"},{"v":"45","n":"校园"},{"v":"46","n":"亲子"},{"v":"47","n":"童话"},{"v":"48","n":"冒险"},{"v":"49","n":"真人"},{"v":"50","n":"LOLI"},{"v":"51","n":"其它"}]}],
-        // "28":[{"key":"cateId","name":"综艺","value":[{"v":"28","n":"脱口秀"},{"v":"29","n":"真人秀"},{"v":"30","n":"选秀"},{"v":"31","n":"美食"},{"v":"32","n":"旅游"},{"v":"33","n":"汽车"},{"v":"34","n":"访谈"},{"v":"35","n":"纪实"},{"v":"36","n":"搞笑"},{"v":"37","n":"其它"}]}]
+var rule = {
+    title:'360影视',
+    host:'https://www.360kan.com',
+    homeUrl:'https://api.web.360kan.com/v1/rank?cat=2&size=9',
+    detailUrl:'https://api.web.360kan.com/v1/detail?cat=fyclass&id=fyid',
+    searchUrl:'https://api.so.360kan.com/index?force_v=1&kw=**&from=&pageno=fypage&v_ap=1&tab=all',
+    url:'https://api.web.360kan.com/v1/filter/list?catid=fyclass&rank=rankhot&cat=&year=&area=&act=&size=35&pageno=fypage&callback=',
+    headers:{
+        'User-Agent':'MOBILE_UA'
     },
-    filter_def:{
-        1:{cateId:'1'},
-        2:{cateId:'2'},
-        4:{cateId:'4'}
-        // 28:{cateId:'28'}
-    },
-    searchUrl:'/search.php?page=fypage&searchword=**&searchtype=',
+    timeout:5000,
+    class_name:'电视剧&电影&综艺&动漫',
+    class_url:'2&1&3&4',
+    limit:5,
+    multi:1,
     searchable:2,
-    quickSearch:0,
-    headers:{'User-Agent':'MOBILE_UA', },
-    timeout:5000,//网站的全局请求超时,默认是3000毫秒
-    class_name:'电影&电视剧&动漫',
-    class_url:'1&2&4',
     play_parse:true,
-    lazy:`js:
-        pdfh = jsp.pdfh;
-        pdfa = jsp.pdfa;
-        pd = jsp.pd;
-        var html = pd(request(input), 'iframe&&src');
-        var apiurl = '';
-        if (/api\\.hhplayer/.test(html)) {
-            apiurl = 'https://api.hhplayer.com/api.php';
-        } else if (/hkjx\\.hhplayer/.test(html)) {
-            apiurl = 'https://hkjx.hhplayer.com/api.php';
-        } else if (/play\\.hhplayer/.test(html)) {
-            apiurl = 'https://play.hhplayer.com/hhjx/api.php';
-        }
-        var url = '';
-        var t = '';
-        var key = '';
-        eval(pdfh(request(html), 'body&&script,0&&Html').split('var act')[0].replaceAll('var ', ''));
-        var purl = JSON.parse(request(apiurl, {
-            headers: {
-                'Referer': html
-            },
-            body: 'url=' + url + '&t=' + t + '&key=' + key + '&act=0&play=1',
-            method: 'POST'
-        })).url;
-        input = {
-            jx: 0,
-            url: /http/.test(purl) ? purl: 'https://api.hhplayer.com' + purl,
-            parse: 0
-        }
-    `,
-    推荐:'.v_list,0&&li;*;*;*;*',
-    一级:'.v_list li;a&&title;.lazyload&&data-original;.v_note&&Text;a&&href',
-    二级:{
-        "title":"h1&&Text;",
-        "img":".m_background&&style",
-        "desc":";;;.v_info_box&&p&&Text",
-        "content":".p_txt.show_part&&Text",
-        "tabs":".from_list&&li",
-        "lists":"#play_link&&li:eq(#id)&&a"
-    },
-    搜索:'*',
+    lazy:'js:input=input.split("?")[0];log(input);',
+    // 疑似t4专用的
+    // lazy:'js:input={parse: 1, playUrl: "", jx: 1, url: input.split("?")[0]}',
+    // 手动调用解析请求json的url,此lazy不方便
+    // lazy:'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+    推荐:'json:data;title;cover;comment;cat+ent_id;description',
+    一级:'json:data.movies;title;cover;pubdate;id;description',
+    二级:'',
+    二级:'js:let html=JSON.parse(fetch(input,fetch_params));let data=html.data;let tilte=data.title;let img=data.cdncover;let vod_type=data.moviecategory.join(",");let area=data.area.join(",");let director=data.director.join(",");let actor=data.actor.join(",");let content=data.description;let base_vod={vod_id:input,vod_name:tilte,type_name:vod_type,vod_actor:actor,vod_director:director,vod_content:content,vod_remarks:area,vod_pic:urljoin2(input,img)};let delta=200;let vod_play={};let sites=data.playlink_sites;sites.forEach(function(site){let playList="";let vodItems=[];if(data.allupinfo){let total=parseInt(data.allupinfo[site]);for(let j=1;j<total;j+=delta){let end=Math.min(total,j+delta-1);let url2=buildUrl(input,{start:j,end:end,site:site});let vod_data=JSON.parse(fetch(url2),fetch_params).data;if(vod_data.allepidetail){vod_data=vod_data.allepidetail[site];vod_data.forEach(function(item,index){vodItems.push((item.playlink_num||"")+"$"+urlDeal(item.url||""))})}else{vod_data=vod_data.defaultepisode;vod_data.forEach(function(item,index){vodItems.push((item.period||"")+(item.name||"")+"$"+urlDeal(item.url)||"")})}}}else{let item=data.playlinksdetail[site];vodItems.push((item.sort||"")+"$"+urlDeal(item.default_url||""))}if(vodItems.length>0){playList=vodItems.join("#")}if(playList.length<1){return}vod_play[site]=playList});let tabs=Object.keys(vod_play);let playUrls=[];for(let id in tabs){print("id:"+id);playUrls.push(vod_play[tabs[id]])}if(tabs.length>0){let vod_play_from=tabs.join("$$$");let vod_play_url=playUrls.join("$$$");base_vod.vod_play_from=vod_play_from;base_vod.vod_play_url=vod_play_url}VOD=base_vod;',
+    搜索:'json:data.longData.rows;titleTxt||titlealias;cover;cat_name;cat_id+en_id;description',
 }
