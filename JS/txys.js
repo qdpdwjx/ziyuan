@@ -1,72 +1,39 @@
-// 搜索验证 -> drpy_ocr自动过搜索验证失败
-var rule={
-    title:'骚火电影',
-    // host:'https://shdy3.com',
-    host:'http://shapp.us',
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(2)&&href");print(src);HOST=src',
-    // url:'/list/fyclass-fypage.html',
-    url:'/list/fyfilter-fypage.html',
-    filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.cateId}}',
-    filter: {
-        "1":[{"key":"cateId","name":"类型","value":[{"v":"1","n":"全部"},{"v":"6","n":"喜剧"},{"v":"7","n":"爱情"},{"v":"8","n":"恐怖"},{"v":"9","n":"动作"},{"v":"10","n":"科幻"},{"v":"11","n":"战争"},{"v":"12","n":"犯罪"},{"v":"13","n":"动画"},{"v":"14","n":"奇幻"},{"v":"15","n":"剧情"},{"v":"16","n":"冒险"},{"v":"17","n":"悬疑"},{"v":"18","n":"惊悚"},{"v":"19","n":"其它"}]}],
-        "2":[{"key":"cateId","name":"类型","value":[{"v":"2","n":"全部"},{"v":"20","n":"大陆"},{"v":"21","n":"TVB"},{"v":"22","n":"韩剧"},{"v":"23","n":"美剧"},{"v":"24","n":"日剧"},{"v":"25","n":"英剧"},{"v":"26","n":"台剧"},{"v":"27","n":"其它"}]}],
-        "4":[{"key":"cateId","name":"类型","value":[{"v":"4","n":"全部"},{"v":"38","n":"搞笑"},{"v":"39","n":"恋爱"},{"v":"40","n":"热血"},{"v":"41","n":"格斗"},{"v":"42","n":"美少女"},{"v":"43","n":"魔法"},{"v":"44","n":"机战"},{"v":"45","n":"校园"},{"v":"46","n":"亲子"},{"v":"47","n":"童话"},{"v":"48","n":"冒险"},{"v":"49","n":"真人"},{"v":"50","n":"LOLI"},{"v":"51","n":"其它"}]}],
-        // "28":[{"key":"cateId","name":"综艺","value":[{"v":"28","n":"脱口秀"},{"v":"29","n":"真人秀"},{"v":"30","n":"选秀"},{"v":"31","n":"美食"},{"v":"32","n":"旅游"},{"v":"33","n":"汽车"},{"v":"34","n":"访谈"},{"v":"35","n":"纪实"},{"v":"36","n":"搞笑"},{"v":"37","n":"其它"}]}]
-    },
-    filter_def:{
-        1:{cateId:'1'},
-        2:{cateId:'2'},
-        4:{cateId:'4'}
-        // 28:{cateId:'28'}
-    },
-    searchUrl:'/search.php?page=fypage&searchword=**&searchtype=',
+var rule = {
+    title:'腾云驾雾',
+    host:'https://v.%71%71.com',
+    // homeUrl:'/channel/choice?listpage=1&channel=choice&sort=18&_all=1',
+    homeUrl:'/x/bu/pagesheet/list?_all=1&append=1&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
+    detailUrl:'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
+    // searchUrl:'https://node.video.%71%71.com/x/api/msearch?keyWord=**',
+    searchUrl:'/x/search/?q=**&stag=fypage',
+    // searchUrl:'http://s.video.qq.com/smartbox?plat=2&ver=0&num=29&otype=json&query=**',
     searchable:2,
-    quickSearch:0,
-    headers:{'User-Agent':'MOBILE_UA', },
-    timeout:5000,//网站的全局请求超时,默认是3000毫秒
-    class_name:'电影&电视剧&动漫',
-    class_url:'1&2&4',
-    play_parse:true,
-    lazy:`js:
-        pdfh = jsp.pdfh;
-        pdfa = jsp.pdfa;
-        pd = jsp.pd;
-        var html = pd(request(input), 'iframe&&src');
-        var apiurl = '';
-        if (/api\\.hhplayer/.test(html)) {
-            apiurl = 'https://api.hhplayer.com/api.php';
-        } else if (/hkjx\\.hhplayer/.test(html)) {
-            apiurl = 'https://hkjx.hhplayer.com/api.php';
-        } else if (/play\\.hhplayer/.test(html)) {
-            apiurl = 'https://play.hhplayer.com/hhjx/api.php';
-        }
-        var url = '';
-        var t = '';
-        var key = '';
-        eval(pdfh(request(html), 'body&&script,0&&Html').split('var act')[0].replaceAll('var ', ''));
-        var purl = JSON.parse(request(apiurl, {
-            headers: {
-                'Referer': html
-            },
-            body: 'url=' + url + '&t=' + t + '&key=' + key + '&act=0&play=1',
-            method: 'POST'
-        })).url;
-        input = {
-            jx: 0,
-            url: /http/.test(purl) ? purl: 'https://api.hhplayer.com' + purl,
-            parse: 0
-        }
-    `,
-    推荐:'.v_list,0&&li;*;*;*;*',
-    一级:'.v_list li;a&&title;.lazyload&&data-original;.v_note&&Text;a&&href',
-    二级:{
-        "title":"h1&&Text;",
-        "img":".m_background&&style",
-        "desc":";;;.v_info_box&&p&&Text",
-        "content":".p_txt.show_part&&Text",
-        "tabs":".from_list&&li",
-        "lists":"#play_link&&li:eq(#id)&&a"
+    filterable:1,
+    multi:1,
+    // url:'/channel/fyclass?listpage=fypage&channel=fyclass&sort=18&_all=1',
+    url:'/x/bu/pagesheet/list?_all=1&append=1&channel=fyclass&listpage=1&offset=((fypage-1)*21)&pagesize=21&iarea=-1',
+    filter_url:'sort={{fl.sort or 18}}&year={{fl.year}}&pay={{fl.pay}}',
+    filter:{'choice': [{'key': 'sort', 'name': '排序', 'value': [{'n': '最热', 'v': '18'}, {'n': '最新', 'v': '19'}, {'n': '好评', 'v': '16'}, {'n': '高分好评', 'v': '21'}]}, {'key': 'pay', 'name': '资费', 'value': [{'n': '全部', 'v': '-1'}, {'n': '免费', 'v': '867'}, {'n': '会员', 'v': '6'}]}, {'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '-1'}, {'n': '2023', 'v': '2023'}, {'n': '2022', 'v': '2022'}, {'n': '2021', 'v': '2021'}, {'n': '2020', 'v': '2020'}, {'n': '2019', 'v': '2019'}, {'n': '2018', 'v': '2018'}, {'n': '2017', 'v': '2017'}, {'n': '2016', 'v': '2016'}, {'n': '2015', 'v': '2015'}]}], 'tv': [{'key': 'sort', 'name': '排序', 'value': [{'n': '最热', 'v': '18'}, {'n': '最新', 'v': '19'}, {'n': '好评', 'v': '16'}, {'n': '高分好评', 'v': '21'}]}, {'key': 'pay', 'name': '资费', 'value': [{'n': '全部', 'v': '-1'}, {'n': '免费', 'v': '867'}, {'n': '会员', 'v': '6'}]}, {'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '-1'}, {'n': '2023', 'v': '2023'}, {'n': '2022', 'v': '2022'}, {'n': '2021', 'v': '2021'}, {'n': '2020', 'v': '2020'}, {'n': '2019', 'v': '2019'}, {'n': '2018', 'v': '2018'}, {'n': '2017', 'v': '2017'}, {'n': '2016', 'v': '2016'}, {'n': '2015', 'v': '2015'}]}], 'movie': [{'key': 'sort', 'name': '排序', 'value': [{'n': '最热', 'v': '18'}, {'n': '最新', 'v': '19'}, {'n': '好评', 'v': '16'}, {'n': '高分好评', 'v': '21'}]}, {'key': 'pay', 'name': '资费', 'value': [{'n': '全部', 'v': '-1'}, {'n': '免费', 'v': '867'}, {'n': '会员', 'v': '6'}]}, {'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '-1'}, {'n': '2023', 'v': '2023'}, {'n': '2022', 'v': '2022'}, {'n': '2021', 'v': '2021'}, {'n': '2020', 'v': '2020'}, {'n': '2019', 'v': '2019'}, {'n': '2018', 'v': '2018'}, {'n': '2017', 'v': '2017'}, {'n': '2016', 'v': '2016'}, {'n': '2015', 'v': '2015'}]}], 'variety': [{'key': 'sort', 'name': '排序', 'value': [{'n': '最热', 'v': '18'}, {'n': '最新', 'v': '19'}, {'n': '好评', 'v': '16'}, {'n': '高分好评', 'v': '21'}]}, {'key': 'pay', 'name': '资费', 'value': [{'n': '全部', 'v': '-1'}, {'n': '免费', 'v': '867'}, {'n': '会员', 'v': '6'}]}, {'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '-1'}, {'n': '2023', 'v': '2023'}, {'n': '2022', 'v': '2022'}, {'n': '2021', 'v': '2021'}, {'n': '2020', 'v': '2020'}, {'n': '2019', 'v': '2019'}, {'n': '2018', 'v': '2018'}, {'n': '2017', 'v': '2017'}, {'n': '2016', 'v': '2016'}, {'n': '2015', 'v': '2015'}]}], 'cartoon': [{'key': 'sort', 'name': '排序', 'value': [{'n': '最热', 'v': '18'}, {'n': '最新', 'v': '19'}, {'n': '好评', 'v': '16'}, {'n': '高分好评', 'v': '21'}]}, {'key': 'pay', 'name': '资费', 'value': [{'n': '全部', 'v': '-1'}, {'n': '免费', 'v': '867'}, {'n': '会员', 'v': '6'}]}, {'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '-1'}, {'n': '2023', 'v': '2023'}, {'n': '2022', 'v': '2022'}, {'n': '2021', 'v': '2021'}, {'n': '2020', 'v': '2020'}, {'n': '2019', 'v': '2019'}, {'n': '2018', 'v': '2018'}, {'n': '2017', 'v': '2017'}, {'n': '2016', 'v': '2016'}, {'n': '2015', 'v': '2015'}]}], 'child': [{'key': 'sort', 'name': '排序', 'value': [{'n': '最热', 'v': '18'}, {'n': '最新', 'v': '19'}, {'n': '好评', 'v': '16'}, {'n': '高分好评', 'v': '21'}]}, {'key': 'pay', 'name': '资费', 'value': [{'n': '全部', 'v': '-1'}, {'n': '免费', 'v': '867'}, {'n': '会员', 'v': '6'}]}, {'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '-1'}, {'n': '2023', 'v': '2023'}, {'n': '2022', 'v': '2022'}, {'n': '2021', 'v': '2021'}, {'n': '2020', 'v': '2020'}, {'n': '2019', 'v': '2019'}, {'n': '2018', 'v': '2018'}, {'n': '2017', 'v': '2017'}, {'n': '2016', 'v': '2016'}, {'n': '2015', 'v': '2015'}]}], 'doco': [{'key': 'sort', 'name': '排序', 'value': [{'n': '最热', 'v': '18'}, {'n': '最新', 'v': '19'}, {'n': '好评', 'v': '16'}, {'n': '高分好评', 'v': '21'}]}, {'key': 'pay', 'name': '资费', 'value': [{'n': '全部', 'v': '-1'}, {'n': '免费', 'v': '867'}, {'n': '会员', 'v': '6'}]}, {'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '-1'}, {'n': '2023', 'v': '2023'}, {'n': '2022', 'v': '2022'}, {'n': '2021', 'v': '2021'}, {'n': '2020', 'v': '2020'}, {'n': '2019', 'v': '2019'}, {'n': '2018', 'v': '2018'}, {'n': '2017', 'v': '2017'}, {'n': '2016', 'v': '2016'}, {'n': '2015', 'v': '2015'}]}]},
+    headers:{
+        'User-Agent':'PC_UA'
     },
-    搜索:'*',
+    timeout:5000,
+    // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
+    cate_exclude:'会员|游戏|全部',
+    class_name:'精选&电视剧&电影&综艺&动漫&少儿&纪录片',
+    class_url:'choice&tv&movie&variety&cartoon&child&doco',
+    limit:20,
+    // play_parse:true,
+    // 手动调用解析请求json的url,此lazy不方便
+    lazy:'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+    推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
+    一级:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
+    // 二级:{is_json:1,"title":"data.title;data.moviecategory[0]+data.moviecategory[1]","img":"data.cdncover","desc":"data.area[0];data.director[0]","content":"data.description","tabs":"data.playlink_sites;data.playlinksdetail.#idv.quality","lists":"data.playlinksdetail.#idv.default_url"},
+    // 二级:{is_json:1,"title":"data.title;data.moviecategory[0]+data.moviecategory[1]","img":"data.cdncover","desc":"data.area[0];data.director[0]","content":"data.description","tabs":"data.playlink_sites","lists":"data.playlinksdetail.#idv.default_url"},
+    二级:'',
+    二级:'js:VOD={};let d=[];let video_list=[];let video_lists=[];let list=[];let QZOutputJson;let html=fetch(input,fetch_params);let sourceId=/get_playsource/.test(input)?input.match(/id=(\\d*?)&/)[1]:input.split("cid=")[1];let cid=sourceId;let detailUrl="https://v.%71%71.com/detail/m/"+cid+".html";log("详情页:"+detailUrl);var pdfh=jsp.pdfh;var pd=jsp.pd;try{let json=JSON.parse(html);VOD={vod_url:input,vod_name:json.c.title,type_name:json.typ.join(","),vod_actor:json.nam.join(","),vod_year:json.c.year,vod_content:json.c.description,vod_remarks:json.rec,vod_pic:urljoin2(input,json.c.pic)}}catch(e){log("解析片名海报等基础信息发生错误:"+e.message)}if(/get_playsource/.test(input)){eval(html);let indexList=QZOutputJson.PlaylistItem.indexList;indexList.forEach(function(it){let dataUrl="https://s.video.qq.com/get_playsource?id="+sourceId+"&plat=2&type=4&data_type=3&range="+it+"&video_type=10&plname=qq&otype=json";eval(fetch(dataUrl,fetch_params));let vdata=QZOutputJson.PlaylistItem.videoPlayList;vdata.forEach(function(item){d.push({title:item.title,pic_url:item.pic,desc:item.episode_number+"\\t\\t\\t播放量："+item.thirdLine,url:item.playUrl})});video_lists=video_lists.concat(vdata)})}else{let json=JSON.parse(html);video_lists=json.c.video_ids;let url="https://v.qq.com/x/cover/"+sourceId+".html";if(video_lists.length===1){let vid=video_lists[0];url="https://v.qq.com/x/cover/"+cid+"/"+vid+".html";d.push({title:"在线播放",url:url})}else if(video_lists.length>1){for(let i=0;i<video_lists.length;i+=30){video_list.push(video_lists.slice(i,i+30))}video_list.forEach(function(it,idex){let o_url="https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1804&appid=20001238&appkey=6c03bbe9658448a4&union_platform=1&idlist="+it.join(",");let o_html=fetch(o_url,fetch_params);eval(o_html);QZOutputJson.results.forEach(function(it1){it1=it1.fields;let url="https://v.qq.com/x/cover/"+cid+"/"+it1.vid+".html";d.push({title:it1.title,pic_url:it1.pic160x90.replace("/160",""),desc:it1.video_checkup_time,url:url,type:it1.category_map&&it1.category_map.length>1?it1.category_map[1]:""})})})}}let yg=d.filter(function(it){return it.type&&it.type!=="正片"});let zp=d.filter(function(it){return!(it.type&&it.type!=="正片")});VOD.vod_play_from=yg.length<1?"qq":"qq$$$qq 预告及花絮";VOD.vod_play_url=yg.length<1?d.map(function(it){return it.title+"$"+it.url}).join("#"):[zp,yg].map(function(it){return it.map(function(its){return its.title+"$"+its.url}).join("#")}).join("$$$");',
+    // 二级:'js:VOD={};let d=[];let video_list=[];let video_lists=[];let list=[];let QZOutputJson;let html=fetch(input,fetch_params);let sourceId=/get_playsource/.test(input)?input.match(/id=(\\d*?)&/)[1]:input.split("cid=")[1];let cid=sourceId;let detailUrl="https://v.%71%71.com/detail/m/"+cid+".html";log("详情页:"+detailUrl);var pdfh=jsp.pdfh;var pd=jsp.pd;try{let json=JSON.parse(html);VOD={vod_url:input,vod_name:json.c.title,type_name:json.typ.join(","),vod_actor:json.nam.join(","),vod_year:json.c.year,vod_content:json.c.description,vod_remarks:json.rec,vod_pic:urljoin2(input,json.c.pic)}}catch(e){log("解析片名海报等基础信息发生错误:"+e.message)}if(/get_playsource/.test(input)){eval(html);let indexList=QZOutputJson.PlaylistItem.indexList;indexList.forEach(function(it){let dataUrl="https://s.video.qq.com/get_playsource?id="+sourceId+"&plat=2&type=4&data_type=3&range="+it+"&video_type=10&plname=qq&otype=json";eval(fetch(dataUrl,fetch_params));let vdata=QZOutputJson.PlaylistItem.videoPlayList;vdata.forEach(function(item){d.push({title:item.title,pic_url:item.pic,desc:item.episode_number+"\\t\\t\\t播放量："+item.thirdLine,url:item.playUrl})});video_lists=video_lists.concat(vdata)})}else{let json=JSON.parse(html);video_lists=json.c.video_ids;let url="https://v.qq.com/x/cover/"+sourceId+".html";if(json.c.type===10){let dataUrl="https://s.video.qq.com/get_playsource?id="+json.c.column_id+"&plat=2&type=2&data_type=3&video_type=8&plname=qq&otype=json";let o_html=fetch(dataUrl,fetch_params);eval(o_html);video_lists=[];let indexList=QZOutputJson.PlaylistItem.indexList;indexList.forEach(function(it){let dataUrl="https://s.video.qq.com/get_playsource?id="+json.c.column_id+"&plat=2&type=4&data_type=3&range="+it+"&video_type=10&plname=qq&otype=json";eval(fetch(dataUrl,fetch_params));let vdata=QZOutputJson.PlaylistItem.videoPlayList;vdata.forEach(function(item){d.push({title:item.title,pic_url:item.pic,desc:item.episode_number+"\\t\\t\\t播放量："+item.thirdLine,url:item.playUrl})});video_lists=video_lists.concat(vdata)})}else if(video_lists.length===1){d.push({title:"在线播放",url:url})}else if(video_lists.length>1){for(let i=0;i<video_lists.length;i+=30){video_list.push(video_lists.slice(i,i+30))}video_list.forEach(function(it,idex){let o_url="https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1804&appid=20001238&appkey=6c03bbe9658448a4&union_platform=1&idlist="+it.join(",");let o_html=fetch(o_url,fetch_params);eval(o_html);QZOutputJson.results.forEach(function(it1){it1=it1.fields;let url="https://v.qq.com/x/cover/"+cid+"/"+it1.vid+".html";d.push({title:it1.title,pic_url:it1.pic160x90.replace("/160",""),desc:it1.video_checkup_time,url:url,type:it1.category_map&&it1.category_map.length>1?it1.category_map[1]:""})})})}}let yg=d.filter(function(it){return it.type&&it.type!=="正片"});let zp=d.filter(function(it){return!(it.type&&it.type!=="正片")});VOD.vod_play_from=yg.length<1?"qq":"qq$$$qq 预告及花絮";VOD.vod_play_url=yg.length<1?d.map(function(it){return it.title+"$"+it.url}).join("#"):[zp,yg].map(function(it){return it.map(function(its){return its.title+"$"+its.url}).join("#")}).join("$$$");',
+    // 搜索:'json:uiData;data[0].title;data[0].posterPic;.titleMarkLabelList[1].primeText;data[0].id;data[0].publishDate',
+    搜索:'js:let d=[];pdfa=jsp.pdfa;pdfh=jsp.pdfh;pd=jsp.pd;let html=request(input);let baseList=pdfa(html,"body&&.result_item_v");baseList.forEach(function(it){let longText=pdfh(it,".result_title&&Text");let shortText=pdfh(it,".sub&&Text");let fromTag=pdfh(it,".result_source&&Text");let score=pdfh(it,".result_score&&Text");let content=pdfh(it,".desc_text&&Text");let url=pdfh(it,".result_title&&a&&href");let img=pd(it,".figure_pic&&src");url="https://node.video.qq.com/x/api/float_vinfo2?cid="+url.match(/.*\\/(.*?)\\.html/)[1];log(shortText+"|"+url);if(fromTag.match(/腾讯/)){d.push({title:longText.split(shortText)[0],img:img,url:url,content:content,desc:"⭐"+longText.split(shortText)[1]+"-"+shortText+" "+score})}});setResult(d);',
+    // 搜索:'json:item;word;dc;class;id;sn',
 }
