@@ -215,16 +215,3 @@ CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 即墨电视台,http://alivealone.litenews.cn/221/34e5175319f14defa189f4c61a163025.flv
 胶州综合,http://alivealone.litenews.cn/305/c663c037b5c345cdbe92a1e77e4c8710.flv
 胶州新闻,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001074/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
-胶州综合,rtmp://alivealone.litenews.cn/305/c663c037b5c345cdbe92a1e77e4c8710
-胶州生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
-胶州生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
-青岛崂山,rtmp://alivealone.litenews.cn/295/a54b85aff0ef4d45bf606ef3c7884d3d
-莱西综合,rtmp://alivealone.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1
-莱西生活,rtmp://alivealone.litenews.cn/253/102010c7bdfb471ab50fdb56f6d3fb60
-莱西综合,rtmp://alivealone.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1
-莱西生活,rtmp://alivealone.litenews.cn/253/102010c7bdfb471ab50fdb56f6d3fb60
-莱西生活,rtmp://alivealone.litenews.cn/253/102010c7bdfb471ab50fdb56f6d3fb60
-莱西综合,rtmp://alivealone.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1
-青岛平度1,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
-青岛平度2,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
-平度生活,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
