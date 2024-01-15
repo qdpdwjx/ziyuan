@@ -66,7 +66,6 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 青岛都市频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000504/index.m3u8#http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000504/index.m3u8#http://39.136.56.5:6410/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000504/index.m3u8#http://39.135.160.99:6410/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000504/index.m3u8
 青岛青少旅游,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000505/index.m3u8#http://39.136.56.3:6410/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000505/index.m3u8#http://39.135.160.99:6410/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000505/index.m3u8
 崂山新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001022/index.m3u8
-城阳新闻,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8#http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd#http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
 黄岛新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001086/index.m3u8
 黄岛生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001087/index.m3u8
 即墨新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001080/index.m3u8
@@ -98,8 +97,8 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8#https://pi.0472.org/tv/sh.php?id=xw#http://222.65.21.143:4022/udp/239.45.3.209:5140
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 上海纪实,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000333/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
-凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰卫视资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 Newtv军旅剧场,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
 金鹰卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
