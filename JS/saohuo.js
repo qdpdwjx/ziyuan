@@ -1,7 +1,7 @@
 // 搜索验证 -> drpy_ocr自动过搜索验证失败
 var rule={
     title:'骚火电影',
-    // host:'https://shdy3.com',
+    // host:'https://saohuo.tv/',
     host:'http://shapp.us',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(2)&&href");print(src);HOST=src',
     // url:'/list/fyclass-fypage.html',
