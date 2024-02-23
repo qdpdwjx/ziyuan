@@ -57,5 +57,4 @@ var rule={
 		}else{
 			input = false
 		}
-	`,
-}
+	`,}
