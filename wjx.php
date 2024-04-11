@@ -108,8 +108,8 @@ NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http:
 财富天下,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 梨园频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000656/index.m3u8
-CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://majian.ixiaobai.net:58888/rtp/239.37.0.186:5540
-CHC高清电影,http://60.220.167.77:8083/rtp/226.0.2.93:8004#http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540#http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://majian.ixiaobai.net:58888/rtp/239.37.0.186:5540
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8#http://60.220.167.77:8083/rtp/226.0.2.93:8004
 CHC家庭影院,http://119.165.163.162:1029/udp/239.253.254.152:8000#http://59.44.192.82:65000/hls/30/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
