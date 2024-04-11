@@ -95,7 +95,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 烟台新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid#https://live.funhillrm.com/5/sd/live.m3u8#http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000#http://live.funhillrm.com/5/sd/live.m3u8
-上海新闻综合,https://itv.lat/tv/live.php?&line=1&id=shxwzh
+上海新闻综合,http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
 上海纪实人文,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000333/index.m3u8
 凤凰卫视中文台,http://115.203.227.32:8866/rtp/233.50.200.191:5140
 凤凰卫视资讯台,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
