@@ -141,7 +141,8 @@ CHC高清电影,http://60.220.167.77:8083/rtp/226.0.2.93:8004
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 CHC家庭影院,http://119.165.163.162:1029/udp/239.253.254.152:8000
 CHC家庭影院,http://59.44.192.82:65000/hls/30/index.m3u8
-凤凰卫视中文台,http://115.203.227.32:8866/rtp/233.50.200.191:5140
+凤凰卫视中文台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视资讯台,http://mywlkj.ddns.net:754/tv/url.php?id=http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视资讯台,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
