@@ -1,5 +1,4 @@
 import { Crypto, load, _ } from './lib/cat.js';
-
 let siteUrl ='https://www.360kan.com';
 let siteKey = '';
 let siteType = 0;
