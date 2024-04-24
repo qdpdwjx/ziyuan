@@ -96,7 +96,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid#https://live.funhillrm.com/5/sd/live.m3u8#http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000#http://live.funhillrm.com/5/sd/live.m3u8
 上海纪实人文,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000333/index.m3u8
-凤凰卫视中文台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视中文台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视资讯台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 Newtv东北热剧,http://39.135.133.156:80/PLTV/88888888/224/3221225679/index.m3u8
 Newtv军旅剧场,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
