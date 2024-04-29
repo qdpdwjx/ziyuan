@@ -111,6 +111,6 @@ NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http:
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540#http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://59.44.192.82:65000/hls/31/index.m3u8
 CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 CHC家庭影院,http://59.44.192.82:65000/hls/30/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
