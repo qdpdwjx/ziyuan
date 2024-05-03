@@ -100,7 +100,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 凤凰卫视资讯台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 Newtv东北热剧,http://39.135.133.156:80/PLTV/88888888/224/3221225679/index.m3u8
 Newtv军旅剧场,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
+NewTV动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
 金鹰卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
 卡酷少儿,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000661/index.m3u8
 优漫卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
