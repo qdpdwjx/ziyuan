@@ -96,8 +96,8 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid#https://live.funhillrm.com/5/sd/live.m3u8#http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000#http://live.funhillrm.com/5/sd/live.m3u8
 上海纪实人文,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000333/index.m3u8
-凤凰卫视中文台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰卫视资讯台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰卫视中文台,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8#http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰卫视资讯台,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8#http://39.135.133.156:80/PLTV/88888888/224/3221225679/index.m3u8
 军旅剧场,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
@@ -108,7 +108,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 财富天下,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 梨园频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000656/index.m3u8
-CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540#http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://59.44.192.82:65000/hls/31/index.m3u8
+CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://59.44.192.82:65000/hls/31/index.m3u8
 CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 CHC家庭影院,http://59.44.192.82:65000/hls/30/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
