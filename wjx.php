@@ -108,9 +108,9 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 财富天下,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 梨园频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000656/index.m3u8
-CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://59.44.192.82:65000/hls/31/index.m3u8
-CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-CHC家庭影院,http://59.44.192.82:65000/hls/30/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC动作电影,http://59.172.85.124:8686/rtp/239.69.1.242:11094#http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://59.44.192.82:65000/hls/31/index.m3u8
+CHC高清电影,http://59.172.85.124:8686/rtp/239.69.1.241:11088#http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC家庭影院,http://59.172.85.124:8686/rtp/239.69.1.243:11100#http://59.44.192.82:65000/hls/30/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
