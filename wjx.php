@@ -17,7 +17,7 @@ CCTV-15音乐,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 CCTV-16奥林匹克,http://39.134.68.155:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=OTT1348620220515060450345698#http://39.134.65.130/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-17农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000303/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000316/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8#http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 山东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000370/index.m3u8#http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000301/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 湖南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000324/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 浙江卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000305/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
@@ -108,9 +108,9 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 财富天下,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 梨园频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000656/index.m3u8
-CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://59.44.192.82:65000/hls/31/index.m3u8
-CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-CHC家庭影院,http://59.44.192.82:65000/hls/30/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2#http://115.60.241.249:2000/rtp/225.1.4.208:1261#http://59.44.192.82:65000/hls/31/index.m3u8
+CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2#http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2#http://59.44.192.82:65000/hls/30/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
