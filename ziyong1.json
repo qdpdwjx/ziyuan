@@ -1,8 +1,12 @@
 ﻿{
 	"spider":"https://gh.con.sh/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/pg.jar",
 	"sites":[
+		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/XBPQ1.jar",
+			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
+		},
+{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		
-		{
+{
 			"key":"Youtube",
 			"name":"Youtube",
 			"type":3,
@@ -32,8 +36,7 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		
+				
 		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gh.con.sh/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/XBPQ1.jar",
 			"ext":{
 				"滤词": "",
@@ -135,9 +138,7 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/XBPQ1.jar",
-			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
-		},
+		
 		{
 			"key": "迅雷8",
 			"name": "迅雷吧|XBPQ|磁力",
@@ -345,10 +346,6 @@
 			"changeable": 0
 		},
 		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
-		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
-		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		{
 			"key": "快看",
 			"name": "快看",
