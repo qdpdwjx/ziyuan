@@ -135,12 +135,9 @@ CCTV-5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 动作电影卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
-CHC动作电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.186:5540
-CHC高清电影,http://60.220.167.77:8083/rtp/226.0.2.93:8004
-CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-CHC家庭影院,http://119.165.163.162:1029/udp/239.253.254.152:8000
-CHC家庭影院,http://59.44.192.82:65000/hls/30/index.m3u8
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
 凤凰中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰卫视中文台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
