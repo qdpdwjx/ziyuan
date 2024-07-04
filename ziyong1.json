@@ -7,7 +7,7 @@
 {"key":"厂长","name":"厂长影视(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"playerType":1,"ext":"https://czzy.top/"},
 {"key":"苹果","name":"苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
 {"key":"酷看","name":"酷看秒播(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":1},
-{"key":"ZX4K","name":"高清影院(SP)","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2},
+{"key":"ZX4K","name":"高清影院(SP)","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":1},
 {"key":"比特","name":"比特秒播(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
 {"key":"荐片","name":"荐片影视(清晰度高)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
 {"key":"文采","name":"文采影视(SP)","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
