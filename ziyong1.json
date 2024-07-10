@@ -15,7 +15,7 @@
 {"key":"小柚","name":"VIP影院(SP)","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
 {"key":"小点","name":"兄弟影视(SP)","type":3,"api":"csp_Wexxiongdiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":1,"jar":"./JAR/xiaosa.jar;md5;FCC4F15B9364F03772301B23033D0812"},
 {"key":"南瓜","name":"南瓜影视(SP)","type":3,"api":"csp_NanGua","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15},
-{"key":"蛋蛋","name":"臭蛋蛋影视(SP)","type":3,"api":"csp_Cddys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15},
+{"key":"蛋蛋","name":"臭蛋蛋影视(SP)","type":3,"api":"csp_Cddys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15},
 {"key":"茶狐杯","name":"茶狐杯影视(XBPQ)","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"主页url":"https://www.5jcd.com/","简介":"+col-pd\">&&</p>","线路数组":"<h3&&</h3>","线路标题":"+>&&","分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax","分类":"电影$1#电视剧$2#综艺$3#动漫$4"},"jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 //{"key":"69美剧","name":"69美剧(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"热播","name":"热播影院(SP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
