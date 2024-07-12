@@ -35,7 +35,32 @@
 {"key":"csp_XBPQ_奇优影院","name":"奇优影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./XBPQ/qyyy.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
 "parses": [
- {"name":"夜幕嗅探", "type":0,"url":"https://www.yemu.xyz/?url=", "ext":{"flag":["qq",
+ {"name":"超级解析","type":3,"url":"Demo"},
+ {
+            "name": "推荐2",
+            "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=",
+            "type": "1",
+            "status": "normal",
+            "type_text": "Type 1",
+            "status_text": "正常"
+        },
+{
+            "name": "推荐5",
+            "url": "https://jx.huohua.vip/api/?key=btyg7V3j4YOo8G0xiT&url=",
+            "type": "1",
+            "status": "normal",
+            "type_text": "Type 1",
+            "status_text": "正常"
+        },
+        {
+            "name": "推荐6",
+            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
+            "type": "1",
+            "status": "normal",
+            "type_text": "Type 1",
+            "status_text": "正常"
+        },
+{"name":"夜幕嗅探", "type":0,"url":"https://www.yemu.xyz/?url=", "ext":{"flag":["qq",
                     "腾讯",
                     "企鹅",
                     "IQiYi",
