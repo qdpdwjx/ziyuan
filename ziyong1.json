@@ -11,7 +11,6 @@
 {"key":"比特","name":"比特秒播(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
 {"key":"荐片","name":"荐片影视(清晰度高)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
 {"key":"文采","name":"文采影视(SP)","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Jpys","name":"金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"可可","name":"可可影视(SP)","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"小柚","name":"VIP影院(SP)","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
 {"key":"小点","name":"兄弟影视(SP)","type":3,"api":"csp_Wexxiongdiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":1,"jar":"./JAR/xiaosa.jar;md5;FCC4F15B9364F03772301B23033D0812"},
