@@ -14,18 +14,14 @@
 {"key":"兄弟","name":"兄弟影视(SP)","type":3,"api":"csp_Wexxiongdiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":1,"jar":"./JAR/xiaosa.jar;md5;FCC4F15B9364F03772301B23033D0812"},
 {"key":"Freeok","name":"FreeOk影视(SP)","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;FCC4F15B9364F03772301B23033D0812"},
 {"key":"南瓜","name":"南瓜影视(SP)","type":3,"api":"csp_NanGua","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15},
-{"key":"酷秒影视","name":"酷秒影视(APP)","type":1,"api":"http://caiji.ikum.cc:8099/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playurl":"https://jx.xmflv.com/?url=", "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"               
-            }
-        },"categories":["电影","国产剧","港台剧","日韩剧","欧美剧","其他剧","儿童","综艺","动漫","哔哩哔哩"]},
+{"key":"酷秒影视","name":"酷秒影视(APP)","type":1,"api":"http://caiji.ikum.cc:8099/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playurl":"https://jx.xmflv.com/?url=","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","其他剧","儿童","综艺","动漫","哔哩哔哩"]},
 //{"key":"蛋蛋","name":"臭蛋蛋影视(SP)","type":3,"api":"csp_Cddys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15},
 {"key":"茶狐杯","name":"茶狐杯影视(XBPQ)","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"主页url":"https://www.5jcd.com/","简介":"+col-pd\">&&</p>","线路数组":"<h3&&</h3>","线路标题":"+>&&","分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax","分类":"电影$1#电视剧$2#综艺$3#动漫$4"},"jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"热播","name":"热播影院(SP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"天天影院(SP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"素白白","name":"素白白影视(SP)","type":3,"api":"csp_Subaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;3843F962622E1FA261E6CD26EBBE2807"},
 {"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/sxys.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
-{"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
+{"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playurl":"https://jx.xmflv.com/?url=","jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"苹果","name":"苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
 {"key":"搜狗","name":"搜狗影视(JS)","type":3,"api":"./libs/drpy2.js","ext":"./JS/sougou.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2},
 {"key":"河马","name":"河马影视(XBPQ)","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"分类url":"https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值":"1&2&3&4"},"jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
