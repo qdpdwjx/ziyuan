@@ -9,7 +9,7 @@
 {"key":"视频库","name":"视频库(SP)","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://vidhub1.cc","jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"酷看","name":"酷看秒播(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":1},
 {"key":"荐片","name":"荐片影视(清晰度高)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
-{"key":"文采","name":"文采影视(SP)","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"文采影视(SP)","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"可可","name":"可可影视(SP)","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"兄弟","name":"兄弟影视(SP)","type":3,"api":"csp_Wexxiongdiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"Freeok","name":"FreeOk影视(SP)","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
