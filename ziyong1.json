@@ -3,8 +3,8 @@
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php"}],
 "sites":[
 {"key":"素白白","name":"素白白影视(SP)","type":3,"api":"csp_Subaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
-{"key":"农民","name":"农民影视(SP)","type":3,"api":"csp_WexNmys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
-//{"key":"农民影视","name":"农民影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./xpath/nmys.json","jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
+//{"key":"农民","name":"农民影视(SP)","type":3,"api":"csp_WexNmys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
+{"key":"农民影视","name":"农民影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./xpath/nmys.json","jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"厂长","name":"厂长影视(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czys.pro/","jar":"./JAR/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"},
 {"key":"看看影视","name":"高清影院(SP)","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"视频库","name":"视频库(SP)","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://vidhub1.cc","jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
