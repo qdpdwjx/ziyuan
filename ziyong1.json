@@ -1,14 +1,14 @@
-{
+﻿{
 "spider":"./JAR/fan2406.jar;md5;026629A5C54494DC8AE9BD38D0A1A1F6",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php"}],
 "sites":[
-//{"key":"骚火","name":"主页(请不要相信视频中的任何广告)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","倒序":"1","分类":"动漫$4#电影$1#电视剧$2#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\""},"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"素白白","name":"素白白影视(SP)","type":3,"api":"csp_Subaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"农民","name":"农民影视(SP)","type":3,"api":"csp_WexNmys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 //{"key":"农民影视","name":"农民影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./xpath/nmys.json","jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"厂长","name":"厂长影视(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czys.pro/","jar":"./JAR/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"},
 {"key":"看看影视","name":"高清影院(SP)","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"视频库","name":"视频库(SP)","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://vidhub1.cc","jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
+{"key":"骚火","name":"骚火电影(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","倒序":"1","分类":"动漫$4#电影$1#电视剧$2#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\""},"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"酷看","name":"酷看秒播(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":1},
 {"key":"荐片","name":"荐片影视(清晰度高)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
 {"key":"文采","name":"文采影视(SP)","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
@@ -21,6 +21,7 @@
 {"key":"热播","name":"热播影院(SP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"天天影院(SP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/sxys.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
+{"key":"csp_AppMr","name":"明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./JAR/fan0905.jar"},
 {"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"苹果","name":"苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
 {"key":"搜狗","name":"搜狗影视(JS)","type":3,"api":"./libs/drpy2.js","ext":"./JS/sougou.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2},
@@ -33,9 +34,8 @@
 {"key":"小镇","name":"电影小镇(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"主页url":"http://dyxz.tv","数组":"<divclass=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"},"jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"全网影视","name":"全网影院(SP)","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"酷秒影视","name":"酷秒影视(APP)","type":1,"api":"http://caiji.ikum.cc:8099/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":1,"categories":["电影","国产剧","港台剧","日韩剧","欧美剧","其他剧","儿童","综艺","动漫","哔哩哔哩"]},
-{"key":"csp_AppMr","name":"明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./JAR/fan0905.jar"},
 {"key":"1080资源库","name":"1080资源库(视频内有广告,勿信)","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["国产剧","台湾剧","韩国剧","欧美剧","战争片","动作片","恐怖片","科幻片","倫理片"]},
-{"key":"csp_XBPQ_97电影","name":"97电影(有广告)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/97dy.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
+{"key":"csp_XBPQ_97电影","name":"97电影(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/97dy.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"csp_XBPQ_奇优影院","name":"奇优影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./XBPQ/qyyy.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
 "parses": [
