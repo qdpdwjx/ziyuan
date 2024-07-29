@@ -1,4 +1,4 @@
-﻿{{
+{
 "spider":"./JAR/fan2406.jar;md5;026629A5C54494DC8AE9BD38D0A1A1F6",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php"}],
 "sites":[
