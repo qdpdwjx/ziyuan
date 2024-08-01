@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./JAR/fan2406.jar;md5;026629A5C54494DC8AE9BD38D0A1A1F6",
+"spider":"./JAR/fan2406.jar;md5;D295EC4DCF9A78F8441996009A88ECB0",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php"}],
 "sites":[
 //{"key":"农民","name":"农民影视(SP)","type":3,"api":"csp_WexNmys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
@@ -17,7 +17,7 @@
 {"key":"兄弟","name":"兄弟影视(SP)","type":3,"api":"csp_Wexxiongdiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"Freeok","name":"FreeOk影视(SP)","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"南瓜","name":"南瓜影视(SP)","type":3,"api":"csp_NanGua","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"蛋蛋","name":"臭蛋蛋影视(SP)","type":3,"api":"csp_Cddys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"煤球","name":"煤球影视(SP)","type":3,"api":"csp_Appmq","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"茶狐杯","name":"茶狐杯影视(XBPQ)","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"主页url":"https://www.5jcd.com/","简介":"+col-pd\">&&</p>","线路数组":"<h3&&</h3>","线路标题":"+>&&","分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax","分类":"电影$1#电视剧$2#综艺$3#动漫$4"},"jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"热播","name":"热播影院(SP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"天天影院(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
