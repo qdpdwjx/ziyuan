@@ -22,7 +22,7 @@
 {"key":"热播","name":"热播影院(SP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"天天影院(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/sxys.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
-{"key":"csp_AppMr","name":"明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./JAR/fan0905.jar"},
+//{"key":"csp_AppMr","name":"明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./JAR/fan0905.jar"},
 {"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"苹果","name":"苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
 {"key":"搜狗","name":"搜狗影视(JS)","type":3,"api":"./libs/drpy2.js","ext":"./JS/sougou.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2},
