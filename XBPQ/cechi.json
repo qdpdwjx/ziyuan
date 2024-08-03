@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
     "站名": "策驰影视",
-    "主页url": "https://m.lieliwu.com/",
+    "主页url": "https://m.lieliwu1.com/",
     "数组": "class=\"hl-item-thumb hl-lazy\"&&</li",
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -9,7 +9,7 @@
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
     "过滤词": "/hls/#php",
     "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
-    "搜索url": "https://m.lieliwu.com/so/-------------.html?wd={wd}",
+    "搜索url": "https://m.lieliwu1.com/so/-------------.html?wd={wd}",
     "搜索模式": "1",
     "搜索数组": "<div class=\"hl-item-pic\"&&</a>",
     "搜索图片": "data-original=\"&&\"",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://m.lieliwu.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://m.lieliwu1.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$21#纪录片$20#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$22#动漫$4#综艺$3"
 }
