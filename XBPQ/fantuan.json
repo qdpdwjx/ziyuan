@@ -1,12 +1,13 @@
 ﻿{
-        "作者": "一个分享者",
+        "作者": "东辰影视",
         "站名": "饭团影视",
         "主页url": "http://www.zztong.net/",
-        "简介": "简介：+<div class=\"mb-2 media-item\">简介：<p>&&</div>",
+        "简介":<div class=\"mb-2 media-item\">简介：<p>&&</div>",
         "导演": "导演：&&</div>",
         "主演": "主演：&&</div>",
         "影片状态": "集数：&&</div>",
         "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "aria-selected=\"true\">&&</button></li>[不包含:索索线路#49线路#光速线路]",
         "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
       }
