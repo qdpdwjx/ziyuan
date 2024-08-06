@@ -1,5 +1,5 @@
 ﻿﻿{
-"spider":"./JAR/fan2406.jar;md5;D295EC4DCF9A78F8441996009A88ECB0",
+"spider":"./JAR/fan2408.jar;md5;DF0CE31AC7DCC52F539815EB83B71B98",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php"}],
 "sites":[
 //{"key":"农民","name":"农民影视(SP)","type":3,"api":"csp_WexNmys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
