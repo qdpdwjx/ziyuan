@@ -7,7 +7,6 @@
 {"key":"农民影视","name":"农民影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./xpath/nmys.json","jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"厂长","name":"厂长影视(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"playerType":2,"ext":"https://www.czys.pro/"},
 {"key":"苹果","name":"苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
-{"key":"看看影视","name":"高清影院(SP)","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
 {"key":"酷看","name":"酷看秒播(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":1},
 //{"key":"ZX4K","name":"高清影院(SP)","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2},
 {"key":"荐片","name":"荐片影视(清晰度高)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
@@ -33,7 +32,12 @@
 {"key":"csp_XBPQ_奇优影院","name":"奇优影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./XBPQ/qyyy.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
 "parses": [
- {"name":"夜幕嗅探", "type":0,"url":"https://www.yemu.xyz/?url=", "ext":{"flag":["qq",
+ {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+{"name":"夜幕嗅探", "type":0,"url":"https://www.yemu.xyz/?url=", "ext":{"flag":["qq",
                     "腾讯",
                     "企鹅",
                     "IQiYi",
