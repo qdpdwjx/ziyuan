@@ -101,6 +101,9 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8#http://39.135.133.156:80/PLTV/88888888/224/3221225679/index.m3u8
 军旅剧场,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
+1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
+1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 金鹰卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
 卡酷少儿,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000661/index.m3u8
 优漫卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
@@ -108,8 +111,5 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 财富天下,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 梨园频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000656/index.m3u8
-1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
-1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
