@@ -2,8 +2,8 @@
 "spider":"./JAR/fan2408.jar;md5;CDEE73045927FCB02B709AE63292CFD7",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "sites":[
-{"key":"旺旺影视","name":"旺旺影视(SP)","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"./JAR/xiaomi.jar;md5;D982E61FE8A00DA65435AFD86938D2DA"},
-//{"key":"旺旺影视","name":"旺旺影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./xpath/nmys.json","jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
+//{"key":"旺旺影视","name":"旺旺影视(SP)","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"./JAR/xiaomi.jar;md5;D982E61FE8A00DA65435AFD86938D2DA"},
+{"key":"旺旺影视","name":"旺旺影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./xpath/nmys.json","jar":"./JAR/xyq.jar;md5;D7FAB2B5E4D61BC9BC66B7C7910DF457"},
 {"key":"厂长","name":"厂长影视(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czys.pro/","jar":"./JAR/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"},
 {"key":"荐片","name":"荐片影视(清晰度高)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
 {"key":"饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/fantuan.json","jar":"./JAR/dongchen.jar;md5;CA1DC291AA150BC8AC1628CF7E18A2AE"},
