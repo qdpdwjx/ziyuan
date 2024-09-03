@@ -114,8 +114,8 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 生活时尚,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
-李沧TV,http://117.72.68.25:9930/qilu.php?id=qdlc
-凤凰中文,http://tv.sd.cn/sichuan?id=239.93.0.162:2192
-凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191
+李沧TV,https://alivealone302.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b/playlist.m3u8?k=0318710a6753e2de9b7cdc02da70f935&t=1725333464
+凤凰中文,http://171.213.143.220:8889/udp/239.93.0.162:2192
+凤凰资讯,http://118.112.66.37:8000/udp/239.93.1.4:2191
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
