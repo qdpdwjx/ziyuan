@@ -1,5 +1,5 @@
 ﻿﻿{
-"spider":"./JAR/fan2408.jar;md5;CDEE73045927FCB02B709AE63292CFD7",
+"spider":"./JAR/fan2408.jar;md5;329E914A90B0BB5C7CB69B0EAEC19700",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "sites":[
 //{"key":"旺旺影视","name":"旺旺影视(SP)","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"./JAR/xiaomi.jar;md5;D982E61FE8A00DA65435AFD86938D2DA"},
