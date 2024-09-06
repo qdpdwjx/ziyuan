@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./JAR/fan2408.jar;md5;CDEE73045927FCB02B709AE63292CFD7",
+"spider":"./JAR/fan2408.jar;md5;329E914A90B0BB5C7CB69B0EAEC19700",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "sites":[
 //{"key":"原创","name":"主页(请不要相信视频中的任何广告)","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
@@ -8,10 +8,10 @@
 {"key":"厂长","name":"厂长影视(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"playerType":2,"ext":"https://www.czys.pro/"},
 {"key":"苹果","name":"苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":1},
 {"key":"酷看","name":"酷看秒播(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":1},
-//{"key":"ZX4K","name":"高清影院(SP)","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2},
 {"key":"荐片","name":"荐片影视(清晰度高)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
 {"key":"饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/fantuan.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
-{"key":"文采","name":"文采影视(SP)","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采影视","name":"文采影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./JAR/XBPQ1.jar;md5;8F51D26FFE142C2A4A6D757292EB6730","ext":{"主页url":"https://www.hkybqufgh.com/","简介":"</label>&&</div>","嗅探词":"m3u8","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.hkybqufgh.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"默认线路","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.hkybqufgh.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+{"key":"文采","name":"金牌影视(SP)","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"可可","name":"可可影视(SP)","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"小点","name":"兄弟影视(SP)","type":3,"api":"csp_Appxd","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":1,"ext":"FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="},
 {"key":"南瓜","name":"南瓜影视(SP)","type":3,"api":"csp_NanGua","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15},
