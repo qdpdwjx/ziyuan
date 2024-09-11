@@ -25,13 +25,7 @@
 //{"key":"csp_AppMr","name":"明明影视(视频内有广告,勿信)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"./JAR/fan0905.jar"},
 {"key":"1080资源库","name":"1080资源库(视频内有广告,勿信)","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["国产剧","台湾剧","韩国剧","欧美剧","战争片","动作片","恐怖片","科幻片","倫理片"]},
 {"key":"csp_XBPQ_奇优影院","name":"奇优影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./XBPQ/qyyy.json","jar":"./JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
- {
-				"key": "*白嫖资源",
-				"name": "白嫖",
-				“type”： 0， "api": "https://www.kxgav.com/api/xml.php"			},  {
-				"key": "*色资源",
-				“name”：“ 涩涩”，“ type”： 0， "api": "http://secj8.com/inc/sapi.php?ac=videolist"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
+ {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
 "parses": [
  {
       "name": "Web聚合",
