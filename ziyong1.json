@@ -17,7 +17,7 @@
 {"key":"天天","name":"天天影院(SP)","type":3,"api":"csp_TianTian","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/danmu.jar;md5;e961e2480dd0836397d58159a8fb8d57"},
 //{"key":"热播","name":"热播影院(SP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"追剧","name":"追剧影院(SP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"switchable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
-{"key":"萌米","name":"天天影院(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+//{"key":"萌米","name":"天天影院(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 //{"key":"csp_Kuaikan","name":"快看影院(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./JAR/Yoursmile.jar;md5;C300EEE68A09BA6B8B5940BCAB864B80"},
 {"key":"骚火","name":"骚火电影(SP)","type":3,"api":"csp_Wexsaohuo","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"jar":"./JAR/xiaosa.jar;md5;4240EE3B8C229184391A6DEE8C5D3AD6"},
