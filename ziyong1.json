@@ -2,7 +2,7 @@
 "spider":"./JAR/fan2408.jar;md5;329E914A90B0BB5C7CB69B0EAEC19700",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "sites":[
-//{"key":"旺旺影视","name":"旺旺影视(SP)","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"./JAR/xiaomi.jar;md5;D982E61FE8A00DA65435AFD86938D2DA"},
+//{"key":"旺旺影视","name":"旺旺影视(SP)","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"./JAR/xiaomi.jar;md5;D797A2AEA119C4C5E217172E274D72F6"},
 {"key":"旺旺影视","name":"旺旺影视(推荐观看)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./xpath/nmys.json","jar":"./JAR/xyq.jar;md5;D7FAB2B5E4D61BC9BC66B7C7910DF457"},
 {"key":"厂长","name":"厂长影视(推荐观看)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czys.pro/"},
 {"key":"荐片","name":"荐片影视(推荐观看)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
@@ -15,7 +15,7 @@
 {"key":"苹果","name":"苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 {"key":"Freeok","name":"FreeOk影视(SP)","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","jar":"./JAR/xiaomi.jar;md5;D982E61FE8A00DA65435AFD86938D2DA"},
 {"key":"csp_Xdys","name":"兄弟影视(SP)","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"jar":"./JAR/fan2406.jar;md5;544C8F23DCBF54FB08605ED4C6E6685A"},
-{"key":"耐看","name":"耐看影院(SP)","type":3,"api":"csp_Nkdy","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaomi.jar;md5;D982E61FE8A00DA65435AFD86938D2DA"},
+{"key":"csp_Nkdy","name":"耐看影院(SP)","type":3,"api":"csp_Nkdy","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/xiaomi.jar;md5;D797A2AEA119C4C5E217172E274D72F6"},
 {"key":"追剧","name":"追剧影院(SP)","type":3,"api":"csp_AppZJ","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"switchable":1,"ext":"http://z.kzjtv.com/","jar":"./JAR/xiaosa.jar;md5;4ADF1D5AA5FE3706001804DE9C74600A"},
 //{"key":"萌米","name":"天天影院(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
