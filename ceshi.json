@@ -20,15 +20,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "ROU223",
-      "name": "\uD83D\uDD1E 223ROU | 视频",
-      "type": 3,
-      "api": "csp_ROU223",
-      "searchable": 0,
-      "filterable": 1
-    },
-    {
+   {
       "key": "HiPianZhiBo",
       "name": "\uD83D\uDD1E 嗨片直播 | 视频",
       "type": 3,
@@ -36,16 +28,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "美少女",
-      "name": "🔞美少女",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+   {
       "key": "*淫水机资源",
       "name": "🔞淫水机",
       "type": 0,
@@ -63,16 +46,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "zp024",
-      "name": "🔞BT天堂-伦理",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
+   {
       "key": "*KK写真资源",
       "name": "🔞KK写真资源-伦理",
       "type": 1,
@@ -109,15 +83,6 @@
       "filterable": 0
     },
     {
-      "key": "zp123",
-      "name": "🔞色猫资源（慢）",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
@@ -137,65 +102,6 @@
       "filterable": 0
     },
     {
-      "key": "wmcj8.com",
-      "name": "成人07",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "💞博天堂💞",
-      "name": "💞博天堂💞",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "💞美少女资源💞",
-      "name": "💞美少女资源💞",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "bttcj.com",
-      "name": "成人04",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "💞番号资源💞",
-      "name": "💞番号资源💞",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "💞探探资源💞",
-      "name": "💞探探资源💞",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "feifei67.com",
-      "name": "成人22",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "💞老鸭资源💞",
       "name": "💞老鸭资源💞",
       "type": 1,
@@ -203,23 +109,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "💞乐播资源💞",
-      "name": "💞乐播资源💞",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "msnii.com",
-      "name": "成人46",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "💞大地资源💞",
       "name": "💞大地资源💞",
@@ -264,42 +154,6 @@
       "filterable": 1
     },
     {
-      "key": "cjmygzy.com",
-      "name": "小美眉",
-      "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*环亚",
-      "name": "环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist"
-    },
-    {
-      "key": "pwd_袜子",
-      "name": "袜子",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "💞白嫖资源💞",
-      "name": "💞白嫖资源💞",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*AIvin",
-      "name": "AIvin",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
-    {
       "key": "kkzy.me",
       "name": "成人51",
       "type": 1,
@@ -318,8 +172,8 @@
       "filterable": 1
     },
     {
-      "key": "kxgav.com",
-      "name": "成人44",
+      "key": "💞白嫖资源💞",
+      "name": "💞白嫖资源💞",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "quickSearch": 1,
