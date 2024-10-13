@@ -79,6 +79,101 @@
       "api": "https://apittzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
     },
+    {
+      "key": "麻豆村",
+      "name": "🔞麻豆村",
+      "type": 1,
+      "api": "https://madoucun.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "pwd_91md",
+      "name": "🔞91麻豆1",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*91麻豆",
+      "name": "*🔞91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "*52AVAV",
+      "name": "*🔞52资源",
+      "type": 0,
+      "api": "https://52zyapi.com/cjapi/sda/vod/xml.html",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*我要啪啪",
+      "name": "*🔞我要啪啪",
+      "type": 0,
+      "api": "https://www.caiji21.com/cjapi/sda/vod/xml/m3u8.html",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*AV集中淫",
+      "name": "*🔞AV集中淫",
+      "type": 0,
+      "api": "https://www.caiji22.com/cjapi/sda/vod/xml/m3u8.html",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "美少女",
+      "name": "🔞美少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zp011",
+      "name": "🔞78乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "香奶儿资源",
+      "name": "🔞香奶儿",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "kxgav",
+      "name": "🔞开心果",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xBPQ_色花堂",
+      "name": "🔞色花堂",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/xBPQ/色花堂.json",
+      "jar": "http://lgz.hk3.20212021.cf/json/xb.jar"
+    },
 {
       "key": "HiPianZhiBo",
       "name": "\uD83D\uDD1E 嗨片直播 | 视频",
