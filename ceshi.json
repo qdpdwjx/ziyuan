@@ -48,6 +48,38 @@
       "filterable": 1
     },
 {
+      "key": "💞老鸭资源💞",
+      "name": "💞老鸭资源💞",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+ {
+      "key": "💞香奶儿资源💞",
+      "name": "💞香奶儿资源💞",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+{
+      "key": "*9号资源",
+      "name": "*9号资源",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+ {
+      "key": "*探探",
+      "name": "*探探",
+      "type": 0,
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
+    },
+{
       "key": "HiPianZhiBo",
       "name": "\uD83D\uDD1E 嗨片直播 | 视频",
       "type": 3,
