@@ -1,10 +1,10 @@
 ﻿{
-"spider":"./JAR/xiaomi.jar;md5;D797A2AEA119C4C5E217172E274D72F6",
+"spider":"./JAR/xiaomi.jar;md5;D8E00443D23D2701D9A1236608961A7C",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"18+Live","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/iptv/color4-av-time.txt","playerType":1,"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"}],
 "sites":[
 //{"key":"旺旺影视","name":"旺旺影视(推荐观看)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./xpath/nmys.json","jar":"./JAR/xyq.jar;md5;D7FAB2B5E4D61BC9BC66B7C7910DF457"},
-{"key":"旺旺影视","name":"旺旺影视1(推荐观看)","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"./JAR/nongmin1.jar;md5;5373BFBBB0B009366FFCC5CF6B4EAD5D"},
+{"key":"旺旺影视","name":"旺旺影视(推荐观看)","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://www.wwgz.cn/"},
 {"key":"csp_瓜子","name":"瓜子影视(推荐观看)","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"timeout":30,"playerType":1},
 {"key":"csp_subaobai","name":"素白白影院(推荐观看)","type":3,"api":"csp_SuBaiBai","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采影视","name":"文采影视(推荐观看)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./JAR/XBPQ.jar;md5;BB155C3F0133BBCE4756AD52003F5968","ext":{"主页url":"https://www.hkybqufgh.com/","简介":"</label>&&</div>","嗅探词":"m3u8","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.hkybqufgh.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"默认线路","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.hkybqufgh.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
