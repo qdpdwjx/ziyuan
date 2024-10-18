@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./JAR/xiaomi.jar;md5;D8E00443D23D2701D9A1236608961A7C",
+"spider":"./JAR/xiaomi.jar;md5;05298B62790D4F33BC1B5BCB9FE8DE73",
 "lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"18+Live","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/iptv/color4-av-time.txt","playerType":1,"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"}],
 "sites":[
