@@ -115,8 +115,10 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 生活时尚,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
 李沧TV,http://117.72.68.25:9930/qilu.php?id=qdlc
-凤凰卫视,http://122.224.232.218:8888/rtp/233.50.200.191:5140
-凤凰资讯,http://122.224.232.218:8888/rtp/233.50.200.192:5140
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 加密节目_10086,#genre#
