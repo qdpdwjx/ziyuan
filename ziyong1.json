@@ -14,7 +14,15 @@
 {"key":"jiulong","name":"九龙影视(推荐观看)","type":3,"api":"http://154.9.252.167:190/js/drpy_libs/drpy2.min.js","ext":"http://154.9.252.167:190/js/?key=137811046&id=九龙"},
 {"key":"河马","name":"河馬影视(推荐观看)","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn","jar":"./JAR/FxzHm.jar;md5;52C6992C6F9D5A56404DE51FBF44EFA7"},
 {"key":"文采","name":"金牌影视(推荐观看)","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/fan2410.jar;md5;CE37642E140A829D57496A32D8FCC648"},
-{"key":"天天","name":"天天影院(推荐观看)","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1},
+{
+			"key": "天天",
+			"name": "☁️天天┃1080P",
+			"type": 3,
+			"api": "csp_TTian",
+			"playerType": 2,
+			"ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+		},
 {"key":"南瓜","name":"南瓜影视(推荐观看)","type":3,"api":"csp_NanGua","playerType":2,"filterable":1,"jar":"./JAR/fan2410.jar;md5;CE37642E140A829D57496A32D8FCC648"},
 {"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
 {"key":"欢视","name":"全网影视(推荐观看)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv","jar":"./JAR/fan2410.jar;md5;CE37642E140A829D57496A32D8FCC648"},
