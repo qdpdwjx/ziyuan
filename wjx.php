@@ -114,7 +114,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 生活时尚,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
-李沧TV,https://alivealone302.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b/playlist.m3u8?k=ebca5cecc9977e47decfdd6f78549d6b&t=1730864973
+李沧TV,http://117.72.68.25:9930/qilu.php?id=qdlc
 黑莓电影,http://39.135.133.157/wh7f454c46tw1539416287_-1579304620/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1730851884&from=23&hms_devid=1247&online=1730851884&vqe=3
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
