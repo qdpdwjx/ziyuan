@@ -5,7 +5,7 @@
 "sites":[
 //{"key":"旺旺影视","name":"旺旺影视(推荐观看)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./xpath/nmys.json","jar":"./JAR/xyq.jar;md5;D7FAB2B5E4D61BC9BC66B7C7910DF457"},
 {"key":"旺旺影视","name":"旺旺影视(推荐观看)","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://www.wwgz.cn/"},
-//{"key":"厂长","name":"厂长影视(推荐观看)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czzy77.com/","jar":"./JAR/fan2410.jar;md5;CE37642E140A829D57496A32D8FCC648"},
+{"key":"厂长","name":"厂长影视(推荐观看)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czzy77.com/","jar":"./JAR/fan2410.jar;md5;CE37642E140A829D57496A32D8FCC648"},
 {"key":"csp_JianPian","name":"荐片影视(推荐观看)","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 //{"key":"荐片","name":"荐片影视(推荐观看)","type":3,"api":"./libs/drpy2.js","ext":"./JS/jpys.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":1},
 {"key":"csp_yunbo","name":"云播影视(推荐观看)","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
