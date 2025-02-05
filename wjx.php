@@ -14,10 +14,10 @@ CCTV-12社会与法,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.liv
 CCTV-13新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000345/index.m3u8#http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8#http://111.40.196.30:80/wh7f454c46tw347678158_817124537/PLTV/88888888/224/3221225504/index.m3u8#http://39.134.65.175/PLTV/88888888/224/3221225812/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8#http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000013/index.m3u8
 CCTV-14少儿,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000323/index.m3u8#http://39.135.133.158:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-15音乐,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000346/index.m3u8#http://39.134.65.82:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8#http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000015/index.m3u8
-CCTV-16奥林匹克,http://39.134.65.130/PLTV/88888888/224/3221225893/1.m3u8
+CCTV-16奥林匹克,http://39.134.65.130/PLTV/88888888/224/3221225893/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000303/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000316/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8#http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-极品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
+CCTV4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 山东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000370/index.m3u8#http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000301/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 湖南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000324/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 浙江卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000305/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
@@ -122,5 +122,13 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 劲爆体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+壹新聞,http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737436537&kdssign=b3caa780c3dc3130438bc98da0eeab52#http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737451397&kdssign=de36328e85c87a8a6964db682d94aa85
+非凡新聞,http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737433680&kdssign=916861d6844d49d9893d2f5a1a2fcaf1
+非凡新聞,http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737451033&kdssign=ace6ecbd266473242a51a7e8c32fb4a3#http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737447338&kdssign=3fa949dddc08e3a958eab243b7088ff5
+中国电影,http://co-sg3.jdiptv.cc/live/zgdy.m3u8
+美亞電影,http://go1.bkpcp.top/tl/null-5
+极品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
 加密节目_10086,#genre#
 1905电影网,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
