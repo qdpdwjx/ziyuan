@@ -126,6 +126,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 壹新聞,http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737436537&kdssign=b3caa780c3dc3130438bc98da0eeab52#http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737451397&kdssign=de36328e85c87a8a6964db682d94aa85
 非凡新聞,http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737433680&kdssign=916861d6844d49d9893d2f5a1a2fcaf1#http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737451033&kdssign=ace6ecbd266473242a51a7e8c32fb4a3#http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737447338&kdssign=3fa949dddc08e3a958eab243b7088ff5
+年代新聞,http://cc-us2.jdiptv.cc/live/ndxw.m3u8?kdstime=1737436605&kdssign=6d0dbe04ae00744dce7d84b07f6a57f3
 東森電影,http://fr-us3.jdiptv.cc/live/dsdy.m3u8?kdstime=1737433427&kdssign=416985ca059a814ad31f35a12b0217cc
 中国电影,http://co-sg3.jdiptv.cc/live/zgdy.m3u8
 美亞電影,http://go1.bkpcp.top/tl/null-5
