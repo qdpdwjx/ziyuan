@@ -11,6 +11,7 @@
 {"key":"原创","name":"原创影院(SP)","type":3,"api":"csp_YCyz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./JAR/fan2501.txt;md5;c4745a1b57105d124cf1b429eba5d4bf"},
 {"key":"瓜子","name":"瓜子影视(SP)","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"playerType":1,"changeable":1},
 {"key":"csp_SP360","name":"360官源(SP)","type":3,"playerType":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"},
+{"key":"fxzYD","name":"分享移动(推荐观看)","type":3,"jar":"./JAR/分享者YD.jar","api":"csp_YDjisu","searchable":1,"changeable":1,"playerType":1},
 {"key":"csp_MiTuApp","name":"米兔视频(SP)","type":3,"quickSearch":0,"api":"csp_MiTuApp","ext":"s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"},
 //{"key":"视觉","name":"新视觉影视(XBPQ)","type":3,"api":"csp_XBPQ","playerType":2,"ext":"./XBPQ/shijue.json","jar":"./JAR/XBPQ.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"1905影视","name":"1905电影网(SP)","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":1,"filterable":0,"jar":"./JAR/分享者.zip"},
@@ -37,7 +38,6 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
 "parses": [
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
-{"name":"💖分享者解析1","type":1,"url":"https://www.mpanso.com/muou/qilin.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"夜幕嗅探", "type":0,"url":"https://www.yemu.xyz/?url=", "ext":{"flag":["qq",
                     "腾讯",
                     "企鹅",
