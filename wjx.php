@@ -215,6 +215,5 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 精品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
-1905电影网,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
 加密节目_10086,#genre#
 1905电影网,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
