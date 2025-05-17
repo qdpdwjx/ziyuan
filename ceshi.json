@@ -1,6 +1,6 @@
 ﻿{
   "spider": "./JAR/ceshi.jar;md5;A392CA741D7598A3C2FB96A860DDD38A",
-  "lives": [{"name":"18+Live","type":0,"url":"https://raw.kkgithub.com/ctsfork/web/main/iptv/color4-av-time.txt","playerType":1,"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"}],
+  "lives": [{"name":"18+Live","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/color4-av-time.txt","playerType":1,"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"}],
   "sites": [
     
     {
