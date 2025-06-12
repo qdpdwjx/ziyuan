@@ -179,7 +179,7 @@ CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index
 临沂综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
 淄博新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
 烟台新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+威海新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000274/index.m3u8
 怡伴健康,http://39.135.133.157/wh7f454c46tw3678461238_-633867627/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8?icpid=88888888&RTS=1730849728&from=23&hms_devid=1247&online=1730849728&vqe=3
 生活时尚,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
 都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
