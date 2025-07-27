@@ -186,7 +186,7 @@ CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index
 精彩影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
 东北热剧,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 军旅剧场,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
+劲爆体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 惊悚悬疑,http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
@@ -213,6 +213,5 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
-精品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
 加密节目_10086,#genre#
 1905电影网,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
