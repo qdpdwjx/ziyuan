@@ -214,8 +214,8 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-中天新闻,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv009
-寰宇新闻,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn14
-TVBS新闻,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv072
+中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
+TVBS新闻,http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
 加密节目_10086,#genre#
 1905电影网,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
