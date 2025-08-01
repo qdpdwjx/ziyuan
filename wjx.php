@@ -14,7 +14,7 @@ CCTV12社会与法,http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index.m
 CCTV13新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV14少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 CCTV15音乐,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
-CCTV16奥林匹克,http://58.17.48.228:808/hls/25/index.m3u8
+CETV-1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 CCTV17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV5+体育,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
@@ -100,7 +100,6 @@ CCTV12社会与法,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live
 CCTV13新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000345/index.m3u8
 CCTV14少儿,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000323/index.m3u8
 CCTV15音乐,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000346/index.m3u8
-CCTV16奥林匹克,http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV17农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000303/index.m3u8
 CCTV5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000316/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
