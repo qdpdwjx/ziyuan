@@ -179,14 +179,10 @@ CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index
 淄博新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
 烟台新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8
 威海新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000274/index.m3u8
-中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+CETV-1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 生活时尚,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
 都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
 精彩影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
-东北热剧,http://111.43.126.240:9003/hls/78/index.m3u8
-军旅剧场,http://111.43.126.240:9003/hls/82/index.m3u8
-超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
-惊悚悬疑,http://111.43.126.240:9003/hls/77/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
@@ -198,7 +194,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 财富天下,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
-黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
 动漫秀场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 法制天地,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
@@ -213,6 +208,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews#http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 加密节目_10086,#genre#
 1905电影网,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
