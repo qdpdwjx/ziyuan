@@ -14,7 +14,7 @@ CCTV12社会与法,http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index.m
 CCTV13新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV14少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 CCTV15音乐,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
-中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+CCTV16奥林匹克,http://fjcm-2117-t.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
 CCTV17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV5+体育,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
@@ -202,6 +202,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 劲爆体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
