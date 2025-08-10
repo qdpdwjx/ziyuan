@@ -203,7 +203,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
-五星体育,https://tv-cdn-ali.ibbtv.cn/ch/bestvwxty_4m.m3u8?auth_key=1754456410-100e969f8ab148829e9800b6547d5d52-0-b2ca86243e759baf7f07f48c89c311a6
 凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
