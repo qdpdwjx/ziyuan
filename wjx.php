@@ -199,7 +199,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 法治天地,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
 金色学堂,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 智慧康养,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
-谍战剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
+影视剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
 劲爆体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
