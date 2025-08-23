@@ -14,7 +14,7 @@ CCTV-12社会与法,http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index.
 CCTV-13新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV-14少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-15音乐,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
-CCTV-16,http://xiaoya.crccxw.top:35455/nptv/cctv16.m3u8#http://111.43.126.240:9003/hls/29/index.m3u8#http://k.061899.xyz/m.php?id=cctv16#http://fjcm-2117-t.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
+CCTV-16,http://111.43.126.240:9003/hls/29/index.m3u8#http://k.061899.xyz/m.php?id=cctv16#http://fjcm-2117-t.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
 CCTV-17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV-5+,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
