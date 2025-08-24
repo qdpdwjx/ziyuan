@@ -204,14 +204,17 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+1905电影网,http://php.jdshipin.com/1905.php
 加密节目_10086,#genre#
 1905电影网,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
