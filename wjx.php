@@ -213,6 +213,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
 中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 1905电影网,http://php.jdshipin.com/1905.php
