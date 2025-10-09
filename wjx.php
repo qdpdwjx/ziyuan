@@ -14,7 +14,7 @@ CCTV-12社会与法,http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index.
 CCTV-13新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV-14少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-15音乐,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
-CCTV-16 奥林匹克,http://8.138.7.223/tv/hxws.m3u8
+CCTV-16 奥林匹克,http://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1787639628-0-0-5bbc9f8b3e3d138d7134a61cfec367eb#http://8.138.7.223/tv/hxws.m3u8
 CCTV-17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV-5+体育,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
@@ -205,6 +205,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
+海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
