@@ -220,5 +220,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 中天新闻,http://114.34.40.48:50008/4gtv-4gtv009/index.m3u8?proxy=true
 TVBS HD,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS新闻,http://114.34.40.48:50008/li-4gtv-4gtv072/index.m3u8?proxy=true
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com/1905.php
