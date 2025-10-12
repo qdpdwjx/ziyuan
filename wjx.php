@@ -212,13 +212,13 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzwx
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 中天新闻,http://114.34.40.48:50008/4gtv-4gtv009/index.m3u8?proxy=true
-TVBS HD,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
+TVBS HD,http://114.34.40.48:50008/li-4gtv-4gtv073/index.m3u8?proxy=true
 TVBS新闻,http://114.34.40.48:50008/li-4gtv-4gtv072/index.m3u8?proxy=true
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
