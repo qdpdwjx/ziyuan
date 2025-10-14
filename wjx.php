@@ -14,10 +14,10 @@ CCTV-12社会与法,http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index.
 CCTV-13新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV-14少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-15音乐,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
-CCTV-16 奥林匹克,http://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1787639628-0-0-5bbc9f8b3e3d138d7134a61cfec367eb#http://8.138.7.223/tv/hxws.m3u8
-CCTV-17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV-5+体育,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
+CCTV-17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+CETV-1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 湖南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225767/index.m3u8
 浙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225585/index.m3u8
@@ -100,9 +100,10 @@ CCTV-12社会与法,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.liv
 CCTV-13新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000345/index.m3u8
 CCTV-14少儿,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000323/index.m3u8
 CCTV-15音乐,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000346/index.m3u8
-CCTV-17农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000303/index.m3u8
 CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000316/index.m3u8
+CCTV-17农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000303/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+CETV-1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 山东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000301/index.m3u8
 湖南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000324/index.m3u8
 浙江卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000305/index.m3u8
@@ -179,7 +180,6 @@ CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index
 淄博新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
 烟台新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8
 威海新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000274/index.m3u8
-CETV-1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 生活时尚,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
 都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
 精彩影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
@@ -207,8 +207,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 重温经典,http://8.138.7.223/tv/cwjd.php
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 IQY影视剧场,http://php.jdshipin.com/smt.php?id=Qiyi
-凤凰中文,https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
-凤凰资讯,https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
