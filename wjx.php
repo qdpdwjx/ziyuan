@@ -205,13 +205,9 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 重温经典,http://8.138.7.223/tv/cwjd.php
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 IQY影视剧场,http://php.jdshipin.com/smt.php?id=Qiyi
-凤凰中文,http://liveplay.wesingapp.com/live/gwS5kbEwNmWObygXxkdd7Kh62Yr0rZAqkFgLZRwPewJMVnfHy8.flv?%E4%BA%8C%E6%9C%8D
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
-凤凰资讯,http://liveplay.wesingapp.com/live/7KUcGQoK77Kh62K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv?%E4%BA%8C%E6%9C%8D
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
