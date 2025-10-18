@@ -215,7 +215,7 @@ IQY影视剧场,http://php.jdshipin.com/smt.php?id=Qiyi
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
-中天新闻,http://114.34.40.48:50008/4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
 加密节目_10086,#genre#
