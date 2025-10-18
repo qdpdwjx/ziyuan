@@ -215,9 +215,8 @@ IQY影视剧场,http://php.jdshipin.com/smt.php?id=Qiyi
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
-五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 中天新闻,http://114.34.40.48:50008/4gtv-4gtv009/index.m3u8?proxy=true
-TVBS HD,http://114.34.40.48:50008/li-4gtv-4gtv073/index.m3u8?proxy=true
-TVBS新闻,http://114.34.40.48:50008/li-4gtv-4gtv072/index.m3u8?proxy=true
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com/1905.php
