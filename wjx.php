@@ -167,6 +167,7 @@ CETV-1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3
 泰安综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
 泰安经济生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
 新泰综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001029/index.m3u8
+岱岳综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001013/index.m3u8
 东平综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
 肥城综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
 日照综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000262/index.m3u8
