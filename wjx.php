@@ -216,6 +216,8 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 四川卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
 搜狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 IQY影视剧场,http://php.jdshipin.com/smt.php?id=Qiyi
+灾难片系列,http://113.45.240.129:35455/huya/23728647
+贺岁片系列,http://113.45.240.129:35455/huya/11601986
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
