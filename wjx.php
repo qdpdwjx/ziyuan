@@ -229,5 +229,6 @@ IQY影视剧场,http://php.jdshipin.com/smt.php?id=Qiyi
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com/1905.php
