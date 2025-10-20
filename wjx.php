@@ -205,6 +205,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
+海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 北京卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
 广东卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
 深圳卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
