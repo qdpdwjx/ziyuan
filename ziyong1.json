@@ -1,6 +1,6 @@
 ﻿{
 "spider":"./JAR/xm250228.jar;md5;3431E066D826898204CFF7BC35683FED",
-"lives": [{"name":"live","type":0,"playerType":1,"url":"./mao.php","epg":"https://diyp.112114.xyz/?ch={name}&date={date}"}],
+"lives": [{"name":"live","type":0,"playerType":1,"url":"./99.php","epg":"https://diyp.112114.xyz/?ch={name}&date={date}"}],
 "sites":[
 {"key":"旺旺影视","name":"旺旺影视(首选观看)","type":3,"api":"csp_WwysGuard","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://www.wwgz.cn/"},
 {"key":"csp_JianPian","name":"荐片影视(首选观看)","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"./JAR/xm2412.jar;md5;0A762B54CF53124BC90868821A884D43"},
@@ -86,3 +86,4 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩" ]}} ]}
+
