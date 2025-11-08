@@ -218,10 +218,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 搜狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 爱奇艺视频,http://php.jdshipin.com/smt.php?id=Qiyi
 爱奇艺视频,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=20065
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=20066
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
