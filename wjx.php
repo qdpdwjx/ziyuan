@@ -17,7 +17,7 @@ CCTV-15音乐,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
 CCTV-5+体育,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
 CCTV-17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
-CCTV-16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV-16,http://119.147.128.20:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?p=GITV&area=JS_CMCC_CP#http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 湖南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225767/index.m3u8
@@ -228,8 +228,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
-TVBS HD,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagtvbskks.flv
 1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
