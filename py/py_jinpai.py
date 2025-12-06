@@ -107,7 +107,7 @@ class Spider(Spider):
         data = self.fetch(f"{self.host}/api/mw-movie/anonymous/video/detail?id={ids[0]}",
                           headers=self.getheaders({'id': ids[0]})).json()
         vod = self.getvod([data['data']])[0]
-        vod['vod_play_from'] = '嗷呜有金牌'
+        vod['vod_play_from'] = '主用线路'
         vod['vod_play_url'] = '#'.join(
             f"{i['name'] if len(vod['episodelist']) > 1 else vod['vod_name']}${ids[0]}@@{i['nid']}" for i in
             vod['episodelist'])
