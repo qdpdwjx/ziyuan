@@ -40,7 +40,7 @@
     "分类片单链接": "a&&href",
     "分类片单图片": "img&&data-original",
     "分类片单副标题": ".v_note&&Text",
-    "分类片单链接加前缀": "https://saohuo.tv",
+    "分类片单链接加前缀": "https://shdy2.com/",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$手机#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
     "搜索链接": "https://shdy2.com/s-{wd}---------{SearchPg}.html",
