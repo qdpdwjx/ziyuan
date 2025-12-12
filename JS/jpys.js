@@ -60,7 +60,7 @@ var rule = {
     eval(getCryptoJS);
     let signkey = 'id='+kid+'&key=cb808529bae6b6be45ecfab29a4889bc&t='+t;
     let key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString();
-    let kjson = JSON.parse(request('https://m.sunnafh.com/api/mw-movie/anonymous/video/detail?id='+kid,{headers:{
+    let kjson = JSON.parse(request('https://www.sunnafh.com/api/mw-movie/anonymous/video/detail?id='+kid,{headers:{
        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
         'Accept': 'application/json, text/plain, */*',
         'deviceId': '63ffad23-a598-4f96-85d7-7bf5f3e4a0a2',
@@ -68,7 +68,7 @@ var rule = {
         't': t 
     }})).data;
     let kurls = kjson.episodeList.map(function(it) => {
-      return it.name + "$" + "https://m.sunnafh.com/vod/play/"+kid+"/sid/"+it.nid
+      return it.name + "$" + "https://www.sunnafh.com/vod/play/"+kid+"/sid/"+it.nid
     }).join('#');
     VOD = {
       vod_id: kid,
