@@ -227,12 +227,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8#https://tzh911.qzz.io/play-smt.php?id=ctinews
-东森新闻,http://cmtv.netlib.re/channel/n6a969278.m3u8#https://tzh911.qzz.io/play-smt.php?id=ettvnews
-寰宇新闻,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8#https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-tvbs新闻,http://cmtv.netlib.re/channel/313be55e.m3u8#https://tzh911.qzz.io/play-smt.php?id=tvbs_n
-民视新闻,http://cmtv.netlib.re/channel/n1a919f80.m3u8#https://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
-非凡新闻,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
 1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
