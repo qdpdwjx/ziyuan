@@ -215,8 +215,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 东方卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
 四川卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
 搜狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-爱奇艺视频,http://php.jdshipin.com/smt.php?id=Qiyi
-爱奇艺视频,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
@@ -227,6 +225,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+1905电影网,http://php.jdshipin.com/1905.php
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
