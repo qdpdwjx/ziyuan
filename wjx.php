@@ -17,7 +17,7 @@ CCTV-15音乐,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
 CCTV-5+体育,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
 CCTV-17农业农村,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
-CCTV-16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CETV-1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 湖南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225767/index.m3u8
 浙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225585/index.m3u8
@@ -196,8 +196,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 法治天地,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
 金色学堂,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 智慧康养,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
-热血剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
-电影大片,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8
 劲爆体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
@@ -214,7 +212,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 浙江卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
 东方卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
 四川卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
-搜狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
