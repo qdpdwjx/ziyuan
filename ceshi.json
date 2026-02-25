@@ -2,50 +2,7 @@
   "spider": "./JAR/ceshi.jar;md5;A392CA741D7598A3C2FB96A860DDD38A",
   "lives": [{"name":"18+Live","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/color4-av-time.txt","playerType":1,"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"}],
   "sites": [
-    
-    {
-      "key": "MiMei",
-      "name": "\uD83D\uDD1E 迷妹 | 珍惜",
-      "type": 3,
-      "api": "csp_MiMei",
-      "searchable": 1,
-      "filterable": 1
-    },
-   {
-      "key": "HiPianZhiBo",
-      "name": "\uD83D\uDD1E 嗨片直播 | 视频",
-      "type": 3,
-      "api": "csp_HiPianZhiBo",
-      "searchable": 1,
-      "filterable": 1
-    },
-   {
-      "key": "*淫水机资源",
-      "name": "🔞淫水机",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*美少女资源",
-      "name": "🔞美少女资源",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-   {
-      "key": "*KK写真资源",
-      "name": "🔞KK写真资源-伦理",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+   
     {
       "key": "zp059",
       "name": "🔞番号资源",
@@ -1541,3 +1498,4 @@
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10"
 }
+
