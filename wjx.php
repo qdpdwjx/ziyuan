@@ -202,7 +202,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
 重温经典,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL20000003/index.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
-海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 北京卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
 广东卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
 深圳卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
@@ -223,6 +222,5 @@ tvbS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-1905电影网,http://php.jdshipin.com/1905.php
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
