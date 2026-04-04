@@ -201,6 +201,11 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 浙江卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
 东方卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
 四川卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
+寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+tvbS新闻,http://rihou.cc:555/tv/[Hv]tvbS闽南
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2
