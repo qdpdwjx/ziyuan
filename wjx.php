@@ -156,8 +156,9 @@ CCTV4K超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index
 济南文旅体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
 济南都市,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
 济南生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
-济南娱乐,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
+济南教育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
 济南鲁中,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8
+泰山频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001114/index.m3u8
 泰安综合,http://39.134.144.6:8089/PLTV/88888888/224/3221225720/index.m3u8
 泰安经济生活,http://39.134.144.6:8089/PLTV/88888888/224/3221225990/index.m3u8
 新泰综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226011/index.m3u8
