@@ -224,5 +224,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 中天新闻,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
