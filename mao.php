@@ -200,6 +200,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
