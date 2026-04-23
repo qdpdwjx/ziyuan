@@ -194,6 +194,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 浙江卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
 东方卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
 四川卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
+李沧新闻,https://tfv83gr3dymt1gea1hqjzfaauqpjpcfsg17ufcfsg65ufgcadr.100ycdn.com/alivealone302.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b/playlist.m3u8?k=6b1a4488d5fa37d62c98fe33c0f61501&t=1776813018&wsSession=4c490ee8f86318fd76646d59-177681301863649&wsIPSercert=e967c1589047f9b9052d20db69708da7&wsBindIP=2&wsserid=1168282327786776755
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
