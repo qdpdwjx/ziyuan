@@ -211,6 +211,8 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -218,6 +220,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 中天新闻,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+李沧新闻,http://23.247.129.70:2026/live5/shandong/difang.php?id=qdlc
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
