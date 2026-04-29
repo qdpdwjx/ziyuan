@@ -212,7 +212,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
