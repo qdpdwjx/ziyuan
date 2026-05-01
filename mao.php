@@ -251,7 +251,6 @@ CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 联通线路,#genre#
-
 CCTV-1 综合,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-2 财经,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3 综艺,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
@@ -454,4 +453,3 @@ CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 北京|优优宝贝,http://120.76.248.139/live/bfgd/4200000153.m3u8
 北京|中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 浙江卫视HD,http://120.76.248.139/live/bfgd/4200000094.m3u8
-
