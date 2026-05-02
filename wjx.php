@@ -216,12 +216,12 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 Tvbs新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
+中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
