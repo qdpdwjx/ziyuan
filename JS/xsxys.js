@@ -1,5 +1,5 @@
 var rule = {
-  title: '金牌影院',
+  title: '新视讯影院',
   host: 'https://m.sunnafh.com',
   url: '/api/mw-movie/anonymous/video/list?pageNum=fypage&pageSize=30&sort=1&sortBy=1&type1=fyclass',
   searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
@@ -82,7 +82,7 @@ var rule = {
       vod_director: kjson.vodDirector,
       vod_actor: kjson.vodActor,
       vod_content: kjson.vodContent,
-      vod_play_from: '金牌线路',
+      vod_play_from: '新视讯线路',
       vod_play_url: kurls
     }`,
   搜索: `js:
