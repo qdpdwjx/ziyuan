@@ -218,6 +218,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
-李沧新闻,http://23.247.129.70:2026/live5/shandong/difang.php?id=qdlc
+电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 加密节目_10086,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
