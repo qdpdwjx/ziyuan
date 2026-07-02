@@ -199,15 +199,15 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
 重温经典,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL20000003/index.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
-北京卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
-广东卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
-深圳卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
-山东卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
-湖南卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
-江苏卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
-浙江卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
-东方卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
-四川卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
+北京卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
+广东卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
+深圳卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
+山东卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+湖南卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
+江苏卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
+浙江卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
+东方卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
+四川卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
